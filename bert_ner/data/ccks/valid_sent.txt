@@ -1,0 +1,828 @@
+德 国 有 哪 些 著 名 的 汽 车 品 牌 ？	B-seg E-seg O O O O O O O O O O O
+微 软 公 司 有 什 么 软 件 产 品 ？	B-seg E-seg O O O O O O O O O O
+美 国 总 统 奥 巴 马 出 生 在 什 么 地 方 ？	O O O O B-seg I-seg E-seg O O O O O O O O
+麻 省 理 工 学 院 的 创 建 者 是 ？	B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+舒 伯 特 是 哪 国 人 ？	B-seg I-seg E-seg O O O O O
+" 商 鞅 变 法 " 发 生 于 哪 个 时 代 ？	O B-seg I-seg I-seg E-seg O O O O O O O O O
+第 一 部 《 异 形 》 的 导 演 是 谁 ？	O O O O B-seg E-seg O O O O O O O
+曲 毛 楼 梯 草 的 主 要 分 布 在 哪 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O
+汤 显 祖 是 哪 个 朝 代 的 人 ？	B-seg I-seg E-seg O O O O O O O O
+暗 夜 女 神 勒 托 出 自 哪 个 神 话 体 系 ？	O O O O B-seg E-seg O O O O O O O O O
+魅 族 C E O 是 谁 ？	B-seg E-seg O O O O O O
+柳 明 珠 的 主 要 成 就 是 什 么 ？	B-seg I-seg E-seg O O O O O O O O O
+中 国 实 行 什 么 政 治 制 度 ？	B-seg E-seg O O O O O O O O O
+乌 克 兰 的 气 候 是 什 么 类 型 ？	B-seg I-seg E-seg O O O O O O O O O
+里 奥 · 梅 西 现 在 效 力 哪 只 球 队 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+石 原 里 美 是 主 演 的 全 部 片 子 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+《 山 楂 树 之 恋 》 是 谁 拍 的 ？	O B-seg I-seg E-seg O O O O O O O O
+张 国 荣 是 哪 里 人 ？	B-seg I-seg E-seg O O O O O
+布 偶 猫 原 产 地 在 哪 里 ？	B-seg I-seg E-seg O O O O O O O
+博 尔 赫 斯 的 妻 子 是 谁 ？	B-seg I-seg I-seg E-seg O O O O O O
+豪 尔 赫 · 路 易 斯 · 博 尔 赫 斯 的 妻 子 是 谁 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+北 京 大 学 的 主 要 奖 项 有 哪 些 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+白 垩 纪 时 霸 王 龙 曾 分 布 在 哪 些 地 方 ？	O O O O B-seg I-seg E-seg O O O O O O O O O
+厦 门 大 学 校 歌 是 ？	B-seg I-seg I-seg E-seg O O O O
+《 骄 儿 诗 》 是 谁 写 的 ？	O B-seg I-seg E-seg O O O O O O
+茶 是 什 么 时 候 开 始 兴 起 的 ？	S-seg O O O O O O O O O O O
+金 庸 的 本 名 是 什 么 ？	B-seg E-seg O O O O O O O
+北 京 大 学 的 地 址 是 哪 里 ？	B-seg I-seg I-seg E-seg O O O O O O O
+A K - 4 7 突 击 步 枪 使 用 多 大 口 径 的 子 弹 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O
+陈 奕 迅 的 英 文 名 是 什 么 ？	B-seg I-seg E-seg O O O O O O O O
+当 年 都 有 谁 教 过 体 操 王 子 李 宁 ？	O O O O O O O O O O O B-seg E-seg O
+复 旦 大 学 的 现 任 校 长 是 谁 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+京 沪 高 铁 有 多 长 ？	B-seg I-seg E-seg O O O O O
+京 沪 高 速 铁 路 铁 有 多 长 ？	B-seg I-seg I-seg I-seg I-seg E-seg O O O O O
+熊 猫 是 熊 还 是 猫 ？	B-seg E-seg O O O O O O
+漫 威 公 司 的 成 立 时 间 是 哪 一 年 ？	B-seg E-seg O O O O O O O O O O O O
+" 木 牛 流 马 " 的 创 造 者 是 谁 ？	O B-seg I-seg I-seg E-seg O O O O O O O O
+" 发 明 木 牛 流 马 " 的 创 造 者 是 谁 ？	O B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O
+肯 德 基 的 官 职 网 是 什 么 ？	B-seg I-seg E-seg O O O O O O O O
+音 乐 之 都 是 哪 个 城 市 ？	B-seg I-seg I-seg E-seg O O O O O O
+中 国 东 海 的 起 止 点 一 般 是 指 ？	O O B-seg E-seg O O O O O O O O O
+罗 马 神 话 中 的 丘 比 特 是 谁 的 儿 子 ？	O O O O O O B-seg I-seg E-seg O O O O O O
+网 络 游 戏 的 传 播 媒 介 是 ？	B-seg I-seg I-seg E-seg O O O O O O O
+初 唐 四 杰 分 别 是 谁 ？	B-seg I-seg I-seg E-seg O O O O O
+现 存 的 社 会 主 义 国 家 有 哪 些 ？	O O O B-seg I-seg I-seg I-seg I-seg E-seg O O O O
+郭 沫 若 的 原 名 和 字 号 是 什 么 ？	B-seg I-seg E-seg O O O O O O O O O O
+奥 巴 马 都 从 事 过 什 么 职 业 ？	B-seg I-seg E-seg O O O O O O O O O
+给 我 推 荐 一 些 篮 球 游 戏 ？	O O O O O O B-seg E-seg O O O
+哪 些 地 方 以 意 大 利 语 作 为 官 职 方 语 言 ？	O O O O O B-seg I-seg I-seg E-seg O O O O O O O O
+富 士 康 有 多 少 名 员 工 ？	B-seg I-seg E-seg O O O O O O O
+一 打 是 指 多 少 个 ？	B-seg E-seg O O O O O O
+刘 涛 的 老 公 是 谁 ？	B-seg E-seg O O O O O O
+北 京 大 学 校 庆 日 也 是 一 个 非 常 重 要 的 节 日 ， 是 哪 一 天 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O O O O
+传 说 中 国 的 文 字 是 谁 发 明 的 ？	O O O O O B-seg E-seg O O O O O O
+传 说 中 国 的 原 始 象 形 文 字 的 创 造 者 是 谁 发 明 的 ？	O O O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+电 影 钢 铁 侠 在 哪 里 取 景 拍 摄 ？	O O B-seg I-seg E-seg O O O O O O O O
+棉 花 糖 在 英 语 中 怎 么 讲 ？	B-seg I-seg E-seg O O O O O O O O
+钱 钟 书 的 代 表 作 有 哪 些 ？	B-seg I-seg E-seg O O O O O O O O
+许 渊 冲 翻 译 过 哪 些 作 品 ？	B-seg I-seg E-seg O O O O O O O O
+鼩 鼱 的 天 敌 是 什 么 ？	B-seg E-seg O O O O O O O
+在 个 人 准 则 层 面 ， 我 们 应 该 如 何 践 行 社 会 主 义 核 心 价 值 观 ？	O O O O O O O O O O O O O O O O O O O O B-seg I-seg I-seg I-seg E-seg O
+拜 占 庭 帝 国 是 哪 一 年 建 立 的 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O
+洋 务 运 动 的 结 果 ？	B-seg I-seg I-seg E-seg O O O O
+史 诗 《 伊 利 亚 特 》 的 作 者 是 谁 ？	O O O B-seg I-seg I-seg E-seg O O O O O O O
+爱 伦 · 坡 的 主 要 成 就 是 什 么 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+埃 德 加 · 爱 伦 · 坡 的 主 要 成 就 是 什 么 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+复 旦 大 学 的 主 要 奖 项 有 哪 些 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+门 捷 列 夫 在 什 么 时 候 公 布 了 元 素 周 期 律 ？	O O O O O O O O O O O O B-seg I-seg I-seg E-seg O O
+门 捷 列 夫 在 什 么 时 候 公 布 了 元 素 周 期 表 律 ？	O O O O O O O O O O O O B-seg I-seg I-seg I-seg E-seg O O
+加 拿 大 的 首 都 是 哪 里 ？	B-seg I-seg E-seg O O O O O O O
+新 加 坡 的 国 际 机 场 有 哪 些 ？	B-seg I-seg E-seg O O O O O O O O O
+在 美 国 华 盛 顿 特 区 ， 我 们 应 该 去 哪 乘 坐 飞 机 ？	O O O B-seg I-seg E-seg O O O O O O O O O O O O O O
+在 美 国 华 盛 顿 哥 伦 比 亚 特 区 特 区 ， 我 们 应 该 去 哪 乘 坐 飞 机 ？	O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O
+输 入 苏 轼 字 什 么 ？	O O B-seg E-seg O O O O
+化 妆 品 牌 薇 姿 出 自 哪 国 ？	O O O O B-seg E-seg O O O O O
+由 史 蒂 芬 · 乔 布 斯 创 立 的 苹 果 公 司 的 理 念 与 口 号 是 什 么 ？	O O O O O O O O O O O B-seg E-seg O O O O O O O O O O O O
+男 朋 友 跟 我 说 他 感 到 " 累 觉 不 爱 " ， 他 到 底 是 什 么 意 思 ？	O O O O O O O O O O B-seg I-seg I-seg E-seg O O O O O O O O O O O
+西 里 斯 的 葡 萄 酒 有 什 么 特 点 ？	B-seg I-seg E-seg O O O O O O O O O O
+哪 些 动 物 属 于 长 角 羚 属 ？	O O O O O O B-seg I-seg I-seg E-seg O
+剑 桥 大 学 的 学 院 有 哪 些 ？	B-seg I-seg I-seg E-seg O O O O O O O
+八 宝 山 的 海 拔 ？	B-seg I-seg E-seg O O O O
+首 位 登 上 过 时 代 周 刊 封 面 的 华 人 女 歌 手 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O
+首 位 登 上 时 代 周 刊 封 面 的 华 人 歌 手 过 时 代 周 刊 封 面 的 华 人 女 歌 手 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O
+微 软 研 发 的 软 件 都 有 哪 些 ？	B-seg E-seg O O O O O O O O O O
+联 合 国 五 大 常 任 理 事 国 有 哪 些 ？	B-seg I-seg E-seg O O O O O O O O O O O
+饮 品 养 乐 多 又 叫 什 么 ？	O O B-seg I-seg E-seg O O O O O
+清 华 大 学 是 一 所 什 么 类 型 的 学 校 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O O
+唐 朝 的 选 官 职 制 度 ？	B-seg E-seg O O O O O O O
+哈 萨 克 斯 坦 人 主 要 是 什 么 民 族 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+2 0 0 3 年 第 一 轮 第 一 顺 位 被 骑 士 队 选 中 的 运 动 员 是 谁 ？	B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O O O
+2 0 0 3 年 第 1 轮 第 1 顺 位 被 骑 士 队 选 中 一 轮 第 一 顺 位 被 骑 士 队 选 中 的 运 动 员 是 谁 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O O O
+中 国 人 口 总 数 ？	B-seg E-seg O O O O O
+神 厨 小 福 贵 有 多 少 集 ？	B-seg I-seg I-seg I-seg E-seg O O O O O
+神 厨 小 福 贵 的 出 品 人 是 谁 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O
+你 知 道 法 语 的 类 别 吗 ？	O O O B-seg E-seg O O O O O
+第 一 次 工 业 革 命 的 主 要 国 家 有 哪 些 ？	B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+爱 伦 · 坡 出 生 在 哪 个 城 市 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+埃 德 加 · 爱 伦 · 坡 出 生 在 哪 个 城 市 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O
+前 赤 壁 赋 的 作 者 ？	B-seg I-seg I-seg E-seg O O O O
+大 流 士 三 世 是 哪 个 帝 国 的 皇 帝 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+歌 手 杨 丞 琳 毕 业 于 ？	O O B-seg I-seg E-seg O O O O
+小 说 《 鬼 吹 灯 》 的 作 者 是 谁 ？	O O O B-seg I-seg E-seg O O O O O O O
+职 业 生 涯 所 有 比 赛 未 下 领 奖 台 的 是 哪 位 女 花 滑 运 动 员 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O
+四 川 大 学 的 地 址 是 哪 里 ？	B-seg I-seg I-seg E-seg O O O O O O O
+埃 及 的 英 文 全 名 是 什 么 ？	B-seg E-seg O O O O O O O O O
+荀 子 主 张 " 人 性 本 恶 " ， 那 你 知 道 性 善 论 是 谁 提 出 的 吗 ？	O O O O O O O O O O O O O O O B-seg I-seg E-seg O O O O O O O
+数 据 库 在 哪 一 年 产 生 ？	B-seg I-seg E-seg O O O O O O O
+范 冰 冰 多 高 ？	B-seg I-seg E-seg O O O
+潭 柘 寺 何 时 建 造 ？	B-seg I-seg E-seg O O O O O
+林 清 玄 的 外 文 名 是 什 么 ？	B-seg I-seg E-seg O O O O O O O O
+电 视 剧 绯 闻 女 孩 在 哪 拍 摄 ？	O O O B-seg I-seg I-seg E-seg O O O O O
+姚 明 是 中 国 著 名 的 篮 球 运 动 员 ， 那 么 姚 明 研 究 生 就 读 于 哪 所 大 学 ？	B-seg E-seg O O O O O O O O O O O O O O B-seg E-seg O O O O O O O O O O O
+冥 王 星 的 外 文 名 是 什 么 ？	B-seg I-seg E-seg O O O O O O O O
+查 士 丁 尼 出 生 在 哪 里 ？	B-seg I-seg I-seg E-seg O O O O O O
+查 士 丁 尼 皇 帝 出 生 在 哪 里 ？	B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+微 软 公 司 有 多 少 员 工 ？	B-seg E-seg O O O O O O O O
+小 沈 阳 媳 妇 是 谁 ？	B-seg I-seg E-seg O O O O O
+足 球 运 动 员 恩 科 诺 惯 用 哪 支 脚 ？	O O O O O B-seg I-seg E-seg O O O O O O
+柏 拉 图 的 著 名 哲 学 主 张 是 ？	B-seg I-seg E-seg O O O O O O O O O
+九 叶 诗 派 的 主 要 成 员 有 哪 些 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+你 知 道 王 老 吉 的 配 方 吗 ？	O O O B-seg I-seg E-seg O O O O O
+谁 首 次 实 现 了 中 国 的 首 次 统 一 ？	O O O O O O O O O B-seg I-seg I-seg E-seg O
+谁 首 次 统 一 实 现 了 中 国 的 首 次 统 一 统 一 ？	O B-seg I-seg I-seg E-seg O O O O O O B-seg I-seg I-seg E-seg O O O
+博 尔 赫 斯 是 什 么 民 族 ？	B-seg I-seg I-seg E-seg O O O O O O
+豪 尔 赫 · 路 易 斯 · 博 尔 赫 斯 是 什 么 民 族 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+小 罗 伯 特 唐 尼 是 什 么 血 型 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+小 罗 伯 特 · 唐 尼 唐 尼 是 什 么 血 型 ？	B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O
+你 知 道 张 一 山 都 演 过 什 么 剧 吗 ？	O O O B-seg I-seg E-seg O O O O O O O O
+动 漫 形 象 皮 卡 丘 出 自 于 哪 部 作 品 ？	O O O O B-seg I-seg E-seg O O O O O O O O
+孔 子 的 主 要 作 品 有 哪 些 ？	B-seg E-seg O O O O O O O O O
+制 作 面 包 需 要 哪 些 原 材 料 啊 ？	O O B-seg E-seg O O O O O O O O O
+在 金 庸 小 说 《 天 龙 八 部 》 中 ， 段 正 淳 的 情 妇 都 有 谁 ？	O O O O O O O O O O O O O B-seg I-seg E-seg O O O O O O O
+慈 禧 的 名 字 是 什 么 ？	B-seg E-seg O O O O O O O
+慈 禧 太 后 的 名 字 是 什 么 ？	B-seg I-seg I-seg E-seg O O O O O O O
+古 时 候 的 一 个 时 辰 在 现 在 是 多 长 时 间 ？	O O O O O O B-seg E-seg O O O O O O O O O
+告 诉 我 杰 尼 龟 的 性 别 比 例 ？	O O O B-seg I-seg E-seg O O O O O O
+在 金 庸 小 说 《 天 龙 八 部 》 中 ， 萧 峰 的 父 亲 是 谁 ？	O O O O O O O O O O O O O B-seg E-seg O O O O O O
+苻 坚 是 哪 个 国 家 的 统 治 者 ？	B-seg E-seg O O O O O O O O O O
+4 - 甲 基 苯 磺 酸 钾 的 英 文 名 是 什 么 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O
+编 织 鞋 的 优 点 是 什 么 ？	B-seg I-seg E-seg O O O O O O O
+闰 年 的 时 间 有 什 么 规 律 ？	B-seg E-seg O O O O O O O O O
+元 宵 节 都 有 哪 些 风 俗 活 动 ？	B-seg I-seg E-seg O O O O O O O O O
+贺 龙 体 育 馆 地 处 哪 座 城 市 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O
+珠 穆 朗 玛 峰 的 最 高 海 拔 为 多 少 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+王 菲 的 《 催 眠 》 收 录 在 哪 张 专 辑 ？	O O O O B-seg E-seg O O O O O O O O O
+唐 代 女 诗 人 薛 涛 于 哪 年 去 世 ？	O O O O O B-seg E-seg O O O O O O
+有 什 么 数 学 方 面 的 著 作 ？	O O O B-seg E-seg O O O O O O
+《 中 国 行 政 诉 讼 法 》 是 何 时 开 始 施 行 的 ？	O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O
+澳 大 利 亚 的 悉 尼 有 什 么 著 名 景 点 ？	O O O O O B-seg E-seg O O O O O O O O
+电 影 《 我 是 奋 青 》 的 票 房 是 多 少 ？	O O O B-seg I-seg I-seg E-seg O O O O O O O O
+老 舍 原 名 是 什 么 ？	B-seg E-seg O O O O O O
+被 誉 为 " 泰 国 的 珍 珠 " 的 是 哪 个 地 方 ？	O O O O B-seg I-seg I-seg I-seg E-seg O O O O O O O O
+剑 桥 大 学 的 知 名 校 友 ？	B-seg I-seg I-seg E-seg O O O O O O
+梅 艳 芳 名 下 有 哪 个 个 人 基 金 ？	B-seg I-seg E-seg O O O O O O O O O O
+世 界 乒 乓 球 锦 标 赛 的 男 子 双 打 冠 军 奖 杯 的 名 称 是 ？	O O B-seg I-seg E-seg O O O O O O O O O O O O O O O O O
+世 界 乒 乓 球 男 子 双 打 冠 军 杯 锦 标 赛 的 男 子 双 打 冠 军 奖 杯 的 名 称 是 ？	O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O
+电 视 剧 《 冰 与 火 之 歌 》 在 哪 里 拍 摄 ？	O O O O B-seg I-seg I-seg I-seg E-seg O O O O O O O
+勾 股 定 理 是 何 时 提 出 的 ？	B-seg I-seg I-seg E-seg O O O O O O O
+四 川 大 学 的 现 任 校 长 是 谁 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+柳 絮 是 柳 树 的 哪 一 个 器 官 职 ？	B-seg E-seg O O O O O O O O O O O
+华 南 虎 分 布 在 哪 些 区 域 ？	B-seg I-seg E-seg O O O O O O O O
+王 选 在 哪 里 毕 业 的 ？	B-seg E-seg O O O O O O O
+《 全 新 版 大 学 英 语 》 有 多 少 页 ？	O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+叔 本 华 提 出 了 哪 些 观 点 ？	B-seg I-seg E-seg O O O O O O O O
+亚 瑟 · 叔 本 华 提 出 了 哪 些 观 点 ？	B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O
+海 贼 里 红 发 率 领 着 哪 个 海 贼 团 纵 横 新 世 界 ？	O O O B-seg E-seg O O O O O O O O O O O O O O
+莎 士 比 亚 写 过 哪 些 著 作 呢 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+网 络 剧 《 法 医 秦 明 》 在 那 个 网 站 平 台 上 播 出 ？	O O O O B-seg I-seg I-seg E-seg O O O O O O O O O O O O
+菠 萝 有 什 么 样 的 象 征 意 义 ？	B-seg E-seg O O O O O O O O O O
+加 拿 大 的 人 口 有 多 少 ？	B-seg I-seg E-seg O O O O O O O
+螺 蛳 粉 是 哪 个 地 方 的 小 吃 ？	B-seg I-seg E-seg O O O O O O O O O
+阿 波 罗 计 划 实 在 什 么 时 候 开 始 的 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O
+品 牌 爱 马 仕 都 卖 哪 些 类 别 的 东 西 ？	O O B-seg I-seg E-seg O O O O O O O O O O
+有 哪 些 地 方 的 法 律 沿 用 英 美 法 系 ？	O O O O O O O O O O B-seg I-seg I-seg E-seg O
+中 国 有 几 个 直 辖 市 ？	B-seg E-seg O O O O O O O
+中 国 省 级 行 政 单 位 有 几 个 直 辖 市 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O
+《 富 春 山 居 图 》 是 谁 的 作 品 ？	O B-seg I-seg I-seg I-seg E-seg O O O O O O O
+电 视 剧 《 同 居 损 友 》 是 何 时 上 映 的 ？	O O O O B-seg I-seg I-seg E-seg O O O O O O O O
+小 孔 成 像 的 光 学 原 理 是 什 么 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+马 云 的 主 要 成 就 是 什 么 ？	B-seg E-seg O O O O O O O O O
+耐 克 的 创 始 人 是 谁 ？	B-seg E-seg O O O O O O O
+芝 加 哥 公 牛 队 的 主 场 馆 是 ？	B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+武 汉 大 学 占 地 面 积 多 大 ？	B-seg I-seg I-seg E-seg O O O O O O O
+叔 本 华 有 哪 些 代 表 作 ？	B-seg I-seg E-seg O O O O O O O
+亚 瑟 · 叔 本 华 有 哪 些 代 表 作 ？	B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O
+基 督 教 起 源 于 什 么 地 方 ？	B-seg I-seg E-seg O O O O O O O O
+塘 红 乡 的 人 口 数 量 是 多 少 ？	B-seg I-seg E-seg O O O O O O O O O
+一 年 有 多 少 天 ？	O S-seg O O O O O
+你 知 道 玫 瑰 属 于 什 么 植 物 纲 吗 ？	O O O B-seg E-seg O O O O O O O O O
+电 影 《 长 江 7 号 》 是 由 哪 个 电 影 公 司 出 品 的 ？	O O O B-seg I-seg I-seg E-seg O O O O O O O O O O O O O
+" C 9 " 高 校 有 哪 些 ？	O B-seg E-seg O O O O O O O
+李 世 民 的 丰 功 伟 绩 ？	B-seg I-seg E-seg O O O O O O
+雨 伞 是 用 什 么 东 西 做 的 ？	B-seg E-seg O O O O O O O O O
+三 色 堇 是 哪 个 国 家 的 国 花 ？	B-seg I-seg E-seg O O O O O O O O O
+赵 本 山 是 哪 几 部 电 视 剧 的 制 片 人 ？	B-seg I-seg E-seg O O O O O O O O O O O O
+歌 曲 《 浮 夸 》 的 时 长 是 多 少 ？	O O O B-seg E-seg O O O O O O O O
+古 罗 马 帝 国 的 人 口 有 多 少 ？	O B-seg E-seg O O O O O O O O O
+海 贼 里 四 皇 都 有 谁 ？	O O O B-seg E-seg O O O O
+上 海 申 花 队 的 主 场 是 哪 里 ？	B-seg E-seg O O O O O O O O O O
+上 海 绿 地 申 花 足 球 俱 乐 部 申 花 队 的 主 场 是 哪 里 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O
+里 奥 · 梅 西 至 今 为 止 获 得 过 的 主 要 奖 项 有 哪 些 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O
+成 龙 是 哪 个 国 家 的 人 ？	B-seg E-seg O O O O O O O O
+什 么 叫 做 假 寐 ？	O O O O B-seg E-seg O
+梵 高 英 年 早 逝 ， 那 么 他 是 什 么 时 候 去 世 的 ？	B-seg E-seg O O O O O O O O O O O O O O O O O
+黄 泉 果 实 被 谁 吃 了 ？	B-seg I-seg I-seg E-seg O O O O O
+诗 人 李 白 是 哪 个 时 代 的 人 ？	O O B-seg E-seg O O O O O O O O
+被 阿 里 巴 巴 内 部 成 为 风 清 扬 的 是 谁 ？	O O O O O O O O O B-seg I-seg E-seg O O O O
+日 本 的 国 花 是 什 么 ？	B-seg E-seg O O O O O O O
+日 本 国 花 的 国 花 是 什 么 ？	B-seg I-seg I-seg E-seg O O O O O O O
+豆 瓣 的 官 职 方 网 站 ？	B-seg E-seg O O O O O O O
+李 白 出 生 时 间 是 哪 一 年 ？	B-seg E-seg O O O O O O O O O
+为 什 么 要 庆 祝 圣 诞 节 ？	O O O O O O B-seg I-seg E-seg O
+哪 位 明 星 的 粉 丝 叫 " 千 纸 鹤 " ？	O O O O O O O O O B-seg I-seg E-seg O O
+南 开 大 学 的 现 任 校 长 是 谁 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+要 多 少 步 才 能 让 一 只 蛋 孵 化 成 杰 尼 龟 ？	O O O O O O O O O O O O O B-seg I-seg E-seg O
+书 籍 《 亚 利 安 0 1 》 的 价 格 是 多 少 ？	O O O B-seg I-seg I-seg I-seg E-seg O O O O O O O O
+五 子 棋 是 哪 个 国 家 发 明 的 ？	B-seg I-seg E-seg O O O O O O O O O
+《 蒹 葭 》 是 一 部 非 常 经 典 、 脍 炙 人 口 的 作 品 ， 它 出 自 哪 里 ？	O B-seg E-seg O O O O O O O O O O O O O O O O O O O O O O O
+拉 萨 的 市 花 是 什 么 ？	B-seg E-seg O O O O O O O
+三 国 时 期 的 政 治 体 制 是 ？	B-seg E-seg O O O O O O O O O
+和 雨 果 浪 漫 主 义 的 代 表 作 同 名 的 建 筑 又 是 什 么 式 建 筑 的 代 表 作 ？	O B-seg E-seg B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O O O O O
+缅 甸 最 大 城 市 有 哪 些 著 名 景 点 ？	B-seg E-seg O O O O O O O O O O O O
+小 马 哥 毕 业 于 哪 所 大 学 ？	B-seg I-seg E-seg O O O O O O O O
+匈 奴 成 为 中 国 的 主 要 民 族 的 时 期 的 人 口 数 量 有 多 少 ？	B-seg E-seg O O O O O O O O O O O O O O O O O O O O O
+创 办 了 美 国 苹 果 公 司 和 P I X A R 动 画 公 司 的 著 名 企 业 家 是 谁 ？	B-seg E-seg O O O O O B-seg E-seg O O O O O O O O B-seg E-seg O O O B-seg I-seg E-seg O O O
+美 国 苹 果 公 司 联 合 创 办 人 了 美 国 苹 果 公 司 和 P I X A R 动 画 公 司 的 著 名 企 业 家 是 谁 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O B-seg E-seg O O O O O O O O B-seg E-seg O O O B-seg I-seg E-seg O O O
+美 国 苹 果 P I X A R 动 画 公 司 创 始 人 联 合 创 办 人 了 美 国 苹 果 P I X A R 动 画 公 司 创 始 人 和 P I X A R 动 画 P I X A R 动 画 公 司 创 始 人 的 著 名 企 业 家 是 谁 ？	O O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O B-seg E-seg O O O O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O B-seg I-seg E-seg O O O
+陈 可 辛 导 演 黄 晓 明 主 演 的 电 影 票 房 是 多 少 ？	B-seg I-seg E-seg O O B-seg I-seg E-seg O O O O O O O O O O O
+宫 崎 骏 和 久 石 让 合 作 的 作 品 ？	B-seg I-seg E-seg O B-seg I-seg E-seg O O O O O O
+" 黑 洞 无 毛 定 理 " 的 提 出 者 的 成 就 主 要 有 哪 些 ？	O B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O
+J D 的 C E O 是 谁 ？	B-seg E-seg O O O O O O O
+淞 沪 会 战 的 伤 亡 情 况 如 何 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+哪 些 食 物 口 味 浓 郁 、 口 感 嫩 滑 、 柔 脆 有 弹 性 ？	O O O O O O B-seg E-seg O B-seg I-seg I-seg E-seg O B-seg I-seg I-seg I-seg E-seg O
+郭 德 纲 创 立 的 相 声 社 团 宗 旨 是 什 么 ？	B-seg I-seg E-seg O O O O O O O O O O O O O
+《 盗 墓 笔 记 》 的 作 者 的 出 生 地 是 ？	O B-seg I-seg I-seg E-seg O O O O O O O O O O
+中 国 古 代 神 话 中 嫦 娥 的 宠 物 象 征 了 什 么 ？	O O O O O O O B-seg E-seg O O O O O O O O O
+演 唱 《 街 角 的 祝 福 》 的 歌 手 是 哪 国 人 ？	O O O B-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+北 京 大 学 出 了 哪 些 作 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg E-seg O
+有 哪 些 大 学 坐 落 于 北 京 市 海 淀 区 ？	O O O B-seg E-seg O O O O O O B-seg I-seg E-seg O
+有 哪 些 公 立 大 学 坐 落 于 北 京 市 海 淀 区 ？	O O O B-seg I-seg I-seg E-seg O O O O O O B-seg I-seg E-seg O
+华 为 公 司 董 事 长 毕 业 于 哪 所 院 校 ？	B-seg E-seg O O O O O O O O O O O O O
+华 为 技 术 有 限 公 司 公 司 董 事 长 毕 业 于 哪 所 院 校 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O
+有 哪 些 毕 业 于 中 央 戏 剧 学 院 的 北 京 籍 演 员 ？	O O O O O O B-seg I-seg I-seg I-seg I-seg E-seg O B-seg E-seg O B-seg E-seg O
+哈 佛 大 学 出 了 哪 些 物 理 学 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg I-seg E-seg O
+飞 机 的 发 明 者 出 生 于 哪 里 ？	B-seg E-seg O O O O O O O O O O
+指 环 王 中 有 些 人 物 ？	B-seg I-seg E-seg O O O O O O
+官 职 网 是 " H T T P	O O O O O B-seg I-seg I-seg E-seg
+登 上 过 维 密 秀 的 中 国 模 特 有 哪 些 ？	O O O O O O O B-seg E-seg O O O O O O
+好 莱 坞 影 片 《 我 是 谁 》 的 中 国 演 员 都 有 谁 ？	O O O O O O B-seg I-seg E-seg O O B-seg E-seg O O O O O O
+《 蒙 娜 丽 莎 》 的 作 者 皈 依 的 是 什 么 宗 教 ？	O B-seg I-seg I-seg E-seg O O O O O O O O O O O O O
+赵 明 诚 的 配 偶 有 哪 些 主 要 作 品 ？	B-seg I-seg E-seg O O O O O O O O O O O
+《 额 尔 古 纳 河 右 岸 》 的 作 者 来 自 哪 个 民 族 ？	O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O
+" 现 代 遗 传 学 之 父 " 出 生 在 哪 个 国 家 ？	O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+四 川 的 5 A 级 景 区 你 知 道 有 哪 些 吗 ？	B-seg E-seg O O O O B-seg E-seg O O O O O O O O
+四 川 的 5 A 级 国 家 A A A A A 级 旅 游 景 区 你 知 道 有 哪 些 吗 ？	B-seg E-seg O O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O
+奥 地 利 的 首 都 在 哪 个 时 区 ？	B-seg I-seg E-seg O O O O O O O O O
+《 指 环 王 》 的 原 著 作 者 毕 业 于 哪 所 大 学 ？	O B-seg I-seg E-seg O O O O O O O O O O O O O O
+留 声 机 的 发 明 者 是 哪 个 国 家 的 人 ？	B-seg I-seg E-seg O O O O O O O O O O O O
+被 世 人 尊 称 为 " 哥 哥 " 的 歌 手 、 演 员 ？	O O O O O O O B-seg E-seg O O B-seg E-seg O B-seg E-seg O
+拉 格 朗 日 中 值 定 理 提 出 者 所 在 国 家 的 主 要 民 族 是 什 么 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O
+《 阳 关 三 叠 》 是 什 么 时 候 的 琴 曲 ？	O B-seg I-seg I-seg E-seg O O O O O O O B-seg E-seg O
+《 阳 关 三 叠 》 是 什 么 时 候 的 古 琴 曲 ？	O B-seg I-seg I-seg E-seg O O O O O O O B-seg I-seg E-seg O
+陈 奕 迅 和 王 菲 合 唱 的 歌 曲 有 什 么 ？	B-seg I-seg E-seg O B-seg E-seg O O O O O O O O O
+加 拿 大 国 树 的 分 布 区 域 ？	B-seg I-seg E-seg O O O O O O O O
+1 9 8 4 年 1 2 月 3 0 日 出 生 的 身 穿 2 3 号 的 N B A 球 星 是 谁 ？	O O O O O O O O O O O O O O O O B-seg E-seg O O O O O O O O O O
+《 悲 惨 世 界 》 的 作 者 的 出 生 日 期 是 ？	O B-seg I-seg I-seg E-seg O O O O O O O O O O O
+所 有 球 衣 号 码 为 1 0 的 阿 根 廷 足 球 运 动 员 ？	O O O O O O O B-seg E-seg O B-seg I-seg E-seg B-seg E-seg O O O O
+《 辛 德 勒 的 名 单 》 的 导 演 是 哪 个 国 家 的 ？	O B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O
+曾 毅 所 在 的 音 乐 组 合 有 哪 些 代 表 作 品 ？	B-seg E-seg O O O O O O O O O O O O O O O
+《 蜀 道 难 》 的 作 者 的 别 称 ？	O B-seg I-seg E-seg O O O O O O O O
+著 有 《 杜 工 部 集 》 的 诗 人 处 于 哪 个 朝 代 ？	O O O B-seg I-seg I-seg E-seg O O O O O O O O O O O
+和 《 最 后 的 晚 餐 》 的 作 者 同 一 个 职 业 的 人 有 哪 些 ？	O O B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O
+电 视 剧 冰 与 火 之 歌 的 出 品 公 司 的 作 品 都 有 哪 些 类 型 ？	O O O B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O
+清 华 大 学 出 了 哪 些 化 学 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg E-seg O
+电 影 《 盗 梦 空 间 》 哪 个 男 主 角 是 和 族 ？	O O O B-seg I-seg I-seg E-seg O O O O O O O B-seg E-seg O
+《 野 草 》 的 作 者 出 生 日 期 是 ？	O B-seg E-seg O O O O O O O O O O
+蝙 蝠 侠 的 出 生 地 有 多 少 人 口 ？	B-seg I-seg E-seg O O O O O O O O O O
+重 庆 大 学 出 过 哪 些 企 业 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg E-seg O
+刘 昊 然 在 哪 一 部 影 片 中 与 潘 粤 明 合 作 ？	B-seg I-seg E-seg O O O O O O O O B-seg I-seg E-seg O O O
+在 金 庸 小 说 《 天 龙 八 部 》 中 ， 聪 辩 先 生 有 什 么 成 就 ？	O O O O O O O O O O O O O B-seg I-seg I-seg E-seg O O O O O O
+俄 罗 斯 的 官 职 方 语 言 属 于 哪 个 语 系 ？	B-seg I-seg E-seg O O O O O O O O O O O O O
+北 京 大 学 出 了 哪 些 天 文 学 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg I-seg E-seg O
+D C 漫 画 中 有 一 个 蝙 蝠 侠 和 超 人 共 同 参 与 的 团 队 ， 它 第 一 次 登 场 于 哪 部 作 品 ？	O O O O O O O O B-seg I-seg E-seg O B-seg E-seg O O O O O O O O O O O O O O O O O O O O
+北 京 的 名 牌 大 学 ？	B-seg E-seg O O O B-seg E-seg O
+北 京 的 名 牌 重 点 大 学 ？	B-seg E-seg O O O B-seg I-seg I-seg E-seg O
+宏 观 经 济 学 的 发 起 人 是 谁 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O
+剑 斗 兽 的 发 行 商 是 哪 国 的 公 司 ？	B-seg I-seg E-seg O O O O O O O O O O O
+李 安 导 演 的 获 得 奥 斯 卡 最 佳 外 语 片 奖 的 电 影 翻 译 成 英 文 叫 什 么 ？	B-seg E-seg O O O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O
+专 辑 《 唱 好 广 州 》 中 被 称 为 亚 运 开 幕 式 序 曲 篇 章 的 歌 曲 是 哪 首 ？	O O O B-seg I-seg I-seg E-seg O O O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O
+哪 些 演 员 是 苗 族 的 ？	O O B-seg E-seg O B-seg E-seg O O
+杨 幂 属 什 么 ？	B-seg E-seg O O O O
+有 哪 些 法 语 的 喜 剧 片 ？	O O O B-seg E-seg O B-seg E-seg O O
+历 史 上 西 南 联 大 培 养 了 哪 些 科 学 家 ？	O O O B-seg I-seg E-seg O O O O O O B-seg I-seg E-seg O
+历 史 上 国 立 西 南 联 合 大 学 大 培 养 了 哪 些 科 学 家 ？	O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O B-seg I-seg E-seg O
+郑 州 铁 路 局 下 辖 哪 些 特 等 站 ？	B-seg I-seg I-seg I-seg E-seg O O O O B-seg I-seg E-seg O
+" 超 级 丹 " 的 妻 子 是 谁 ？	O B-seg I-seg E-seg O O O O O O O
+榕 城 的 车 牌 代 码 是 什 么 ？	B-seg E-seg O O O O O O O O O
+微 积 分 中 的 微 、 积 分 是 什 么 关 系 ？	B-seg I-seg E-seg O O O O O O O O O O O O
+习 大 大 什 么 时 候 出 生 ？	B-seg I-seg E-seg O O O O O O O
+海 贼 王 里 被 悬 赏 1 亿 7 7 0 0 万 ， 梦 想 获 得 透 明 果 实 能 力 的 人 象 征 哪 个 国 家 的 男 人 ？	O O O O O O O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O
+海 贼 王 里 被 悬 赏 1 亿 7 7 0 0 万 贝 利 ， 梦 想 获 得 透 明 果 实 能 力 的 人 象 征 哪 个 国 家 的 男 人 ？	O O O O O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O
+五 虎 将 中 被 称 作 武 圣 的 是 谁 ？	B-seg E-seg O O O O O B-seg E-seg O O O O
+五 虎 上 将 将 中 被 称 作 武 圣 的 是 谁 ？	B-seg I-seg I-seg E-seg O O O O O B-seg E-seg O O O O
+竹 内 顺 子 和 中 村 千 绘 共 同 为 哪 些 动 画 配 过 音 ？	O B-seg I-seg E-seg O B-seg I-seg I-seg E-seg O O O O O O O O O O O
+竹 竹 子 内 顺 子 和 中 村 千 绘 共 同 为 哪 些 动 画 配 过 音 ？	O B-seg I-seg I-seg I-seg E-seg O B-seg I-seg I-seg E-seg O O O O O O O O O O O
+有 哪 些 政 治 家 信 仰 马 克 思 主 义 ？	O O O B-seg I-seg E-seg O O B-seg I-seg I-seg I-seg E-seg O
+地 处 新 西 兰 的 牛 奶 公 司 有 ？	O O B-seg I-seg E-seg O B-seg E-seg O O O O
+9 8 5 工 程 都 包 括 哪 些 北 京 高 校 ？	B-seg I-seg I-seg I-seg E-seg O O O O O B-seg E-seg O O O
+司 徒 镇 （ 高 邮 市 ） 的 特 产 中 老 少 皆 宜 的 是 ？	B-seg I-seg E-seg O O O O O O O O O B-seg I-seg I-seg E-seg O O O
+三 门 峡 出 过 哪 些 演 员 ？	B-seg I-seg E-seg O O O O B-seg E-seg O
+小 说 《 伊 豆 的 舞 女 》 的 作 者 在 什 么 时 间 去 世 了 ？	O O O B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O
+沈 涛 主 持 的 正 在 播 出 的 节 目 是 ？	B-seg E-seg O O O O O B-seg E-seg O O O O O
+沈 涛 主 持 的 正 在 播 出 中 的 节 目 是 ？	B-seg E-seg O O O O O B-seg I-seg E-seg O O O O O
+《 秦 律 》 的 作 者 有 哪 些 成 就 ？	O B-seg E-seg O O O O O O O O O O
+胡 歌 霍 建 华 共 同 主 演 的 电 视 剧 有 什 么 ？	B-seg E-seg B-seg I-seg E-seg O O O O O O O O O O O O
+演 唱 《 十 年 》 的 歌 手 毕 业 于 哪 个 大 学 ？	O O O B-seg E-seg O O B-seg E-seg O O O O O O O O
+电 影 《 霸 王 别 姬 》 中 出 生 香 港 的 著 名 男 演 员 有 哪 些 兴 趣 爱 好 ？	O O O B-seg I-seg I-seg E-seg O O O O B-seg E-seg O O O O O O O O O O O O O O
+小 说 《 哈 利 波 特 》 的 作 者 是 谁 ？	O O O B-seg E-seg O O O O O O O O O
+小 说 《 哈 利 · 波 特 波 特 》 的 作 者 是 谁 ？	O O O B-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+我 国 在 明 朝 时 都 有 哪 些 著 名 的 外 交 家 ？	O O O B-seg E-seg O O O O O O O O B-seg I-seg E-seg O
+曾 获 中 国 好 声 音 冠 军 ， 并 在 中 国 好 声 音 上 唱 过 她 说 的 是 哪 位 歌 手 ？	O O B-seg I-seg I-seg I-seg E-seg O O O O O B-seg I-seg I-seg I-seg E-seg O O O B-seg E-seg O O O O O O O
+曾 获 中 国 好 声 音 总 冠 军 冠 军 ， 并 在 中 国 好 声 音 总 冠 军 上 唱 过 她 说 的 是 哪 位 歌 手 ？	O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O B-seg E-seg O O O O O O O
+冯 小 刚 的 女 儿 的 出 生 日 期 是 什 么 ？	B-seg I-seg E-seg O O O O O O O O O O O O
+绥 靖 天 皇 的 父 亲 是 何 时 即 位 的 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O
+浙 江 大 学 出 了 哪 些 科 学 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg E-seg O
+有 哪 些 位 于 湖 北 的 公 司 ？	O O O O O B-seg E-seg O B-seg E-seg O
+主 张 " 知 识 即 美 德 " 的 哲 学 家 的 代 表 作 有 哪 些 ？	O O O B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O
+北 京 大 学 出 了 哪 些 科 学 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg E-seg O
+电 影 神 秘 家 族 的 导 演 出 生 于 什 么 时 候 ？	O O B-seg I-seg I-seg E-seg O O O O O O O O O O O
+武 汉 大 学 出 了 哪 些 天 文 学 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg I-seg E-seg O
+所 有 血 型 是 O 的 篮 球 运 动 员 ？	O O O O O O O B-seg E-seg O O O O
+北 京 大 学 出 了 哪 些 经 济 学 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg I-seg E-seg O
+理 查 德 · 格 里 格 和 菲 利 普 · 津 巴 多 合 著 的 书 是 什 么 ？	B-seg I-seg I-seg I-seg I-seg I-seg E-seg O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O
+价 值 五 亿 赏 金 ， 最 擅 长 霸 王 色 的 海 贼 是 谁 ？	O O B-seg E-seg O O O O O O B-seg I-seg E-seg O O O O O O
+价 值 五 亿 贝 利 赏 金 ， 最 擅 长 霸 王 色 的 海 贼 是 谁 ？	O O B-seg I-seg I-seg E-seg O O O O O O B-seg I-seg E-seg O O O O O O
+皇 家 马 德 里 的 主 场 的 西 班 牙 文 名 是 什 么 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O
+M A I N E C O O N 的 原 产 地 在 哪 里 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O
+0 9 年 诺 贝 尔 和 平 奖 获 得 者 的 妻 子 是 谁 ？	O B-seg E-seg O O O O O O O O O O O O O O O
+" 东 施 效 颦 " 这 个 词 涉 及 的 两 个 人 物 中 哪 个 是 王 妃 ？	O B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O B-seg E-seg O
+吉 林 大 学 出 过 哪 些 科 学 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg E-seg O
+郦 道 元 的 《 水 经 注 》 编 撰 于 哪 个 朝 代 ？	B-seg I-seg E-seg O O B-seg I-seg E-seg O O O O O O O O O
+和 小 狮 座 与 大 熊 座 相 邻 的 星 座 是 那 一 个 ？	O B-seg I-seg E-seg O B-seg I-seg E-seg O O O O O O O O O O
+由 张 国 荣 、 巩 俐 主 演 的 电 影 的 导 演 是 谁 ？	O B-seg I-seg E-seg O B-seg E-seg O O O O O O O O O O O
+" 柳 暗 花 明 又 一 村 " 的 出 处 属 于 什 么 文 学 体 裁 ？	O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O
+在 金 庸 小 说 《 天 龙 八 部 》 中 ， 哪 个 女 性 会 天 山 六 阳 掌 和 天 山 折 梅 手 ？	O O O O O O O O O O O O O O O S-seg O O B-seg I-seg I-seg I-seg E-seg O B-seg I-seg I-seg I-seg E-seg O
+在 金 庸 小 说 《 天 龙 八 部 》 中 ， 哪 个 女 性 会 天 山 折 梅 手 六 阳 掌 和 天 山 折 梅 手 折 梅 手 ？	O O O O O O O O O O O O O O O S-seg O O B-seg I-seg I-seg I-seg E-seg O O O O B-seg I-seg I-seg I-seg E-seg O O O O
+肯 德 基 的 创 始 人 的 外 文 名 是 什 么 ？	B-seg I-seg E-seg O O O O O O O O O O O O
+有 哪 些 德 国 足 球 运 动 员 荣 获 过 世 界 杯 金 靴 奖 ？	O O O B-seg E-seg O O O O O O O O O O O O O O O
+哪 位 古 希 腊 思 想 家 提 出 了 著 名 的 " 形 而 上 学 " ？	O O B-seg I-seg E-seg B-seg I-seg E-seg O O O O O O O B-seg I-seg I-seg E-seg O O
+钱 钟 书 是 在 哪 个 地 区 上 的 大 学 ？	B-seg I-seg E-seg O O O O O O O O O O O
+哈 利 波 特 系 列 小 说 的 作 者 是 哪 个 国 家 的 ？	B-seg E-seg O O O O O O O O O O O O O O O O
+哈 利 · 波 特 波 特 系 列 小 说 的 作 者 是 哪 个 国 家 的 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O
+俄 罗 斯 的 首 都 的 邮 政 区 码 是 多 少 ？	B-seg I-seg E-seg O O O O O O O O O O O O
+俄 罗 斯 共 和 国 的 首 都 的 邮 政 区 码 是 多 少 ？	B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O
+" 自 强 不 息 厚 德 载 物 " 是 哪 个 学 校 的 校 训 ？	O B-seg I-seg I-seg E-seg B-seg I-seg I-seg E-seg O O O O O O O O O O
+浙 江 大 学 出 了 哪 些 导 演 ？	B-seg I-seg I-seg E-seg O O O O B-seg E-seg O
+1 8 3 8 年 提 出 了 哪 个 应 用 于 概 率 论 的 理 论 ？	B-seg I-seg I-seg E-seg O O O O O O O O O B-seg I-seg E-seg O O O O
+流 行 演 唱 团 体 S H E 的 成 员 分 别 是 什 么 时 候 出 生 的 ？	O O O O O O B-seg I-seg E-seg O O O O O O O O O O O O O O
+小 罗 伯 特 · 唐 尼 2 0 0 8 年 主 演 的 成 名 电 影 的 导 演 是 谁 ？	B-seg I-seg I-seg I-seg I-seg I-seg E-seg B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O
+有 哪 些 盛 产 荔 枝 和 龙 眼 的 地 级 市 ？	O O O O O B-seg E-seg O B-seg E-seg O B-seg I-seg E-seg O
+北 京 邮 电 大 学 的 哪 条 校 训 的 意 思 是 " 知 道 的 多 " ？	B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O B-seg I-seg I-seg E-seg O O
+诸 葛 亮 有 哪 些 代 表 作 品 ？	B-seg I-seg E-seg O O O O O O O O
+武 汉 大 学 出 了 哪 些 企 业 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg E-seg O
+李 谷 一 演 唱 ， 王 酩 作 曲 ， 乔 羽 填 词 的 经 典 歌 曲 是 ？	B-seg I-seg E-seg O O O B-seg E-seg O O O B-seg E-seg O O O O O O O O O
+梅 西 所 在 俱 乐 部 成 立 时 间 ？	B-seg E-seg O O O O O O O O O O
+里 奥 · 梅 西 所 在 俱 乐 部 成 立 时 间 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O
+清 华 大 学 出 了 哪 些 哲 学 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg E-seg O
+唱 《 钟 无 艳 》 的 歌 手 在 哪 里 毕 业 的 ？	O O B-seg I-seg E-seg O O O O O O O O O O O
+指 环 王 中 有 哪 些 男 性 角 色 ？	B-seg I-seg E-seg O O O O S-seg O O O O
+朴 槿 惠 父 亲 的 主 要 成 就 ？	B-seg I-seg E-seg O O O O O O O O
+冰 与 火 之 歌 是 在 哪 个 洲 拍 摄 的 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+英 国 有 哪 些 著 名 的 数 学 家 ？	B-seg E-seg O O O O O O B-seg I-seg E-seg O
+清 华 大 学 出 了 哪 些 天 文 学 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg I-seg E-seg O
+《 甄 嬛 传 》 中 甄 嬛 的 饰 演 者 的 老 公 是 谁 ？	O B-seg E-seg O O O B-seg E-seg O O O O O O O O O O
+三 国 杀 的 开 发 商 属 于 什 么 性 质 的 公 司 ？	B-seg I-seg E-seg O O O O O O O O O O O O O O
+周 迅 和 金 城 武 共 同 出 演 的 电 影 的 导 演 是 ？	B-seg E-seg O B-seg I-seg E-seg O O O O O O O O O O O O
+W I N D O W S 操 作 系 统 发 行 公 司 的 创 始 人 是 谁 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O
+坐 落 在 杭 州 且 属 于 9 8 5 工 程 的 高 等 学 府 是 哪 所 大 学 ？	O O O B-seg E-seg O O O B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O
+波 恩 大 学 培 养 出 的 诗 人 有 哪 些 ？	B-seg I-seg I-seg E-seg O O O O B-seg E-seg O O O O
+共 产 主 义 的 发 起 者 是 哪 个 学 校 毕 业 的 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O O O O
+北 京 大 学 出 了 哪 些 物 理 学 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg I-seg E-seg O
+北 京 大 学 出 了 哪 些 思 想 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg E-seg O
+王 学 兵 和 桂 纶 镁 共 同 主 演 了 哪 些 作 品 ？	B-seg I-seg E-seg O B-seg I-seg E-seg O O O O O O O O O O
+" 2 0 0 9 年 第 一 轮 第 3 位 被 雷 霆 队 选 中 " 的 球 员 的 身 高 是 ？	O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+有 哪 些 维 吾 尔 族 演 员 ？	O O O B-seg I-seg I-seg E-seg B-seg E-seg O
+西 方 音 乐 主 要 使 用 什 么 乐 器 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+由 国 防 科 技 大 学 设 计 研 发 的 的 超 级 计 算 机 叫 什 么 名 字 ？	O B-seg I-seg E-seg O O O O O O O O O B-seg I-seg I-seg I-seg E-seg O O O O O O
+由 国 防 科 学 技 术 大 学 技 大 学 设 计 研 发 的 的 超 级 计 算 机 叫 什 么 名 字 ？	O B-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O B-seg I-seg I-seg I-seg E-seg O O O O O O
+《 出 师 表 》 的 作 者 逝 世 后 被 安 葬 于 何 处 ？	O B-seg I-seg E-seg O O O O O O O O O O O O O O
+比 利 · 海 灵 顿 的 出 生 地 有 哪 些 院 校 / 研 究 所 ？	B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O
+4 2 小 罗 伯 特 · 唐 尼 2 0 0 8 年 主 演 的 成 名 电 影 的 制 片 人 是 谁 ？	O O B-seg I-seg I-seg I-seg I-seg I-seg E-seg B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O
+华 盖 集 的 作 者 有 哪 些 别 名 呢 ？	B-seg I-seg E-seg O O O O O O O O O O
+乔 丹 的 二 儿 子 场 上 司 职 什 么 位 置 ？	B-seg E-seg O O O O O O O O O O O O O
+四 川 大 学 出 了 哪 些 作 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg E-seg O
+联 想 G P U 所 用 操 作 系 统 的 特 点 有 哪 些 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O
+被 称 作 " 娜 姐 " 的 网 球 运 动 员 的 单 打 战 绩 是 多 少 ？	O O O O B-seg E-seg O O O O O O O O O O O O O O O O
+李 幼 斌 和 张 桐 共 同 主 演 过 哪 部 作 品 ？	B-seg I-seg E-seg O B-seg E-seg O O O O O O O O O O
+0 3 版 《 天 龙 八 部 》 电 视 剧 的 总 制 片 人 的 妻 子 是 谁 ？	O O O O B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O
+周 润 发 章 子 怡 合 作 并 在 安 徽 拍 摄 的 电 影 是 哪 个 ？	B-seg I-seg E-seg B-seg I-seg E-seg O O O O B-seg E-seg O O O O O O O O O
+运 动 员 李 娜 的 丈 夫 拿 过 什 么 奖 项 ？	O O O B-seg E-seg O O O O O O O O O O
+长 篇 小 说 《 骆 驼 祥 子 》 的 作 者 是 哪 个 民 族 ？	O O O O O B-seg I-seg I-seg E-seg O O O O O O O O O O
+海 贼 王 里 武 器 是 魔 法 天 候 棒 的 人 被 悬 赏 多 少 钱 ？	B-seg I-seg E-seg O O O O B-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+江 泽 民 同 志 提 出 " 三 个 代 表 " 重 要 思 想 的 时 间 是 ？	B-seg I-seg E-seg O O O O O B-seg I-seg I-seg E-seg O O O O O O O O O O
+江 泽 民 同 志 提 出 " 三 个 代 表 重 要 思 想 " 重 要 思 想 的 时 间 是 ？	B-seg I-seg E-seg O O O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O
+北 京 大 学 现 任 校 长 毕 业 于 哪 所 大 学 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O O O
+有 哪 些 奇 幻 电 影 是 由 毕 业 于 中 央 戏 剧 学 院 的 北 京 籍 演 员 出 演 的 ？	O O O B-seg E-seg O O O O O O O B-seg I-seg I-seg I-seg I-seg E-seg O B-seg E-seg O B-seg E-seg O O O O
+湘 的 省 会 是 哪 个 城 市 ？	S-seg O O O O O O O O O
+何 炅 和 张 杰 老 婆 合 作 的 节 目 作 品 是 啥 ？	B-seg E-seg O B-seg E-seg O O O O O O O O O O O O
+慕 尼 黑 工 业 大 学 属 于 哪 个 国 家 哪 个 州 ？	B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O
+四 川 大 学 出 了 哪 些 企 业 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg E-seg O
+曹 丕 执 政 时 期 国 家 流 通 的 货 币 是 什 么 ？	B-seg E-seg O O O O O O O O O O O O O O O
+由 梁 翘 柏 作 曲 ， 李 焯 雄 填 词 的 歌 曲 有 哪 些 ？	O B-seg I-seg E-seg O O O B-seg I-seg E-seg O O O O O O O O O
+我 在 国 外 想 拨 打 中 国 的 号 码 前 面 该 加 什 么 ？	O O O O O O O B-seg E-seg O O O O O O O O O O
+演 员 陈 晓 的 经 纪 公 司 建 在 哪 里 ？	O O B-seg E-seg O O O O O O O O O O
+《 半 生 缘 》 的 作 者 其 笔 名 有 ？	O B-seg I-seg E-seg O O O O O O O O O
+亚 洲 哪 个 国 家 的 主 要 民 族 是 马 来 人 ？	B-seg E-seg O O O O O O O O O O B-seg I-seg E-seg O
+电 系 神 奇 宝 贝 都 有 哪 些 特 性 ？	S-seg O B-seg I-seg I-seg E-seg O O O O O O O
+在 金 庸 小 说 《 天 龙 八 部 》 中 ， 萧 峰 的 师 父 属 于 哪 个 帮 派 ？	O O O O O O O O O O O O O B-seg E-seg O O O O O O O O O O
+给 初 音 未 来 配 音 的 那 个 人 是 什 么 星 座 呀 ？	O B-seg I-seg I-seg E-seg O O O O O O O O O O O O O
+北 京 大 学 出 了 哪 些 生 物 学 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg I-seg E-seg O
+《 野 草 》 的 作 者 原 名 是 ？	O B-seg E-seg O O O O O O O O
+海 贼 王 里 外 号 海 贼 猎 人 、 绿 藻 头 的 人 长 得 有 多 高 ？	B-seg I-seg E-seg O O O B-seg I-seg I-seg E-seg O B-seg I-seg E-seg O O O O O O O O
+海 贼 猎 人 王 里 外 号 海 贼 猎 人 猎 人 、 绿 藻 头 的 人 长 得 有 多 高 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg I-seg E-seg O O O B-seg I-seg E-seg O O O O O O O O
+霸 王 龙 所 在 的 总 目 繁 荣 时 间 是 什 么 ？	B-seg I-seg E-seg O O O O O O O O O O O O O
+在 金 庸 小 说 《 天 龙 八 部 》 中 ， 带 头 大 哥 的 儿 子 是 谁 ？	O O O O O O O O O O O O O B-seg I-seg I-seg E-seg O O O O O O
+李 安 导 演 过 哪 些 3 D 电 影 ？	B-seg E-seg O O O O O B-seg I-seg I-seg E-seg O
+《 额 尔 古 纳 河 右 岸 》 的 作 者 有 何 社 会 评 价 ？	O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O
+长 江 的 沿 岸 重 要 城 市 都 有 什 么 ？	B-seg E-seg O O O O O O O O O O O O
+我 们 会 在 哪 个 民 俗 节 日 里 吃 元 宵 ？	O O O O O O B-seg E-seg O O O O B-seg E-seg O
+在 金 庸 小 说 《 天 龙 八 部 》 中 ， 鸠 摩 智 和 游 坦 之 都 会 什 么 武 功 ？	O O O O O O O O O O O O O B-seg I-seg E-seg O B-seg I-seg E-seg O O O O O O O
+有 哪 些 双 鱼 座 的 歌 手 ， 同 时 还 是 模 特 ？	O O O B-seg I-seg E-seg O B-seg E-seg O O O O O B-seg E-seg O
+东 南 大 学 出 过 哪 些 数 学 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg E-seg O
+成 龙 和 周 星 驰 共 同 出 演 的 电 影 有 哪 些 ？	B-seg E-seg O B-seg I-seg E-seg O O O O O O O O O O O
+吉 林 大 学 出 过 哪 些 企 业 家 ？	B-seg I-seg I-seg E-seg O O O O B-seg I-seg E-seg O
+《 西 游 记 》 小 说 的 作 者 的 出 生 地 是 哪 里 ？	O B-seg I-seg E-seg O O O O O O O O O O O O O O
+电 影 十 面 埋 伏 是 什 么 时 候 出 品 的 ？	O O B-seg I-seg I-seg E-seg O O O O O O O O O
+康 佳 集 团 的 法 人 是 谁 ?	B-seg I-seg I-seg E-seg O O O O O O
+康 佳 集 团 股 份 有 限 公 司 的 法 人 是 谁 ?	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+飞 亚 股 份 的 公 司 名 称 ?	B-seg I-seg I-seg E-seg O O O O O O
+飞 亚 股 份 的 董 事 长 是 谁 ?	B-seg I-seg I-seg E-seg O O O O O O O
+飞 亚 股 份 的 总 经 理 叫 什 么 ?	B-seg I-seg I-seg E-seg O O O O O O O O
+飞 亚 股 份 的 董 事 会 秘 书 是 谁 ?	B-seg I-seg I-seg E-seg O O O O O O O O O
+飞 亚 股 份 的 副 总 经 理 有 哪 几 位 ?	B-seg I-seg I-seg E-seg O O O O O O O O O O
+飞 亚 股 份 的 董 事 有 哪 几 位 ?	B-seg I-seg I-seg E-seg O O O O O O O O
+飞 亚 股 份 的 独 立 董 事 有 哪 几 位 ?	B-seg I-seg I-seg E-seg O O O O O O O O O O
+飞 亚 股 份 的 总 会 计 师 是 谁 ?	B-seg I-seg I-seg E-seg O O O O O O O O
+飞 亚 股 份 的 职 工 监 事 是 谁 ?	B-seg I-seg I-seg E-seg O O O O O O O O
+飞 亚 股 份 的 职 工 代 表 监 事 是 谁 ?	B-seg I-seg I-seg E-seg O O O O O O O O O O
+飞 亚 股 份 的 总 经 理 助 理 是 谁 ?	B-seg I-seg I-seg E-seg O O O O O O O O O
+中 粮 地 产 的 董 事 长 上 任 时 间 ?	B-seg I-seg I-seg E-seg O O O O O O O O O
+中 粮 地 产 的 法 人 上 任 时 间 ?	B-seg I-seg I-seg E-seg O O O O O O O O
+中 粮 地 产 的 职 工 监 事 上 任 时 间 ?	B-seg I-seg I-seg E-seg O O O O O O O O O O
+中 粮 地 产 的 监 事 会 主 席 上 任 时 间 ?	B-seg I-seg I-seg E-seg O O O O O O O O O O O
+中 粮 地 产 的 监 事 会 副 主 席 上 任 时 间 ?	B-seg I-seg I-seg E-seg O O O O O O O O O O O O
+恒 生 电 子 的 董 事 长 是 谁 ？	B-seg I-seg I-seg E-seg O O O O O O O
+恒 生 电 子 股 份 有 限 公 司 的 总 裁 叫 什 么 名 字 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O
+平 安 银 行 的 全 称 是 什 么 ？	B-seg I-seg I-seg E-seg O O O O O O O
+平 安 银 行 的 间 接 兄 弟 企 业 都 有 哪 些 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O O O
+平 安 银 行 的 间 接 兄 弟 企 业 是 谁 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O
+平 安 银 行 的 间 接 非 控 股 股 东 都 有 哪 些 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O O O O
+平 安 银 行 的 间 接 控 股 股 东 都 有 哪 些 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O O O
+平 安 银 行 的 兄 弟 企 业 都 有 哪 些 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O
+平 安 银 行 的 下 属 子 公 司 、 参 股 公 司 都 有 哪 些 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O
+平 安 银 行 的 母 公 司 都 有 哪 些 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+恒 生 电 子 的 下 属 子 公 司 、 参 股 公 司 有 哪 些 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O
+恒 生 电 子 有 哪 些 子 公 司 ？	B-seg I-seg I-seg E-seg O O O O O O O
+恒 生 电 子 的 兄 弟 企 业 有 哪 几 家 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O
+恒 生 电 子 的 联 营 企 业 都 有 谁 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+恒 生 电 子 的 母 公 司 是 谁 ？	B-seg I-seg I-seg E-seg O O O O O O O
+恒 生 电 子 参 股 了 哪 些 公 司 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+A 股 有 多 少 上 市 公 司 ？	B-seg E-seg O O O O O O O O
+什 么 是 指 数 型 基 金 ？	O O O B-seg I-seg I-seg I-seg E-seg O
+大 数 据 1 0 0 指 数 是 什 么 指 数 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+什 么 是 长 多 ？	O O O B-seg E-seg O
+融 资 融 券 的 费 率 ？	B-seg I-seg I-seg E-seg O O O O
+什 么 是 R S I 指 标 ?	O O O B-seg I-seg I-seg I-seg E-seg O
+恒 生 电 子 在 哪 里 上 市 的	B-seg I-seg I-seg E-seg O O O O O O
+恒 生 电 子 的 是 什 么 性 质 的	B-seg I-seg I-seg E-seg O O O O O O O
+恒 生 电 子 是 哪 年 成 立 的	B-seg I-seg I-seg E-seg O O O O O O
+国 农 科 技 的 主 要 业 务 是 啥 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+海 泰 发 展 的 股 票 代 码 是 多 少	B-seg I-seg I-seg E-seg O O O O O O O O
+恒 生 电 子 的 十 大 股 东 都 有 谁	B-seg I-seg I-seg E-seg O O O O O O O O
+大 华 股 份 的 全 称 是 什 么	B-seg I-seg I-seg E-seg O O O O O O
+蚂 蚁 金 服 旗 下 有 哪 些 主 要 产 品 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O
+蚂 蚁 金 服 的 融 资 时 间 ？	B-seg I-seg I-seg E-seg O O O O O O
+支 付 宝 成 立 时 间 ？	B-seg I-seg E-seg O O O O O
+芝 麻 融 资 融 券 的 所 有 者 是 谁 ？	B-seg E-seg O O O O O O O O O O O
+芝 麻 信 用 融 资 融 券 的 所 有 者 是 谁 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O O
+信 雅 达 的 法 定 代 表 人 是 谁	B-seg I-seg E-seg O O O O O O O O
+信 雅 达 的 注 册 资 本 是 多 少 ？	B-seg I-seg E-seg O O O O O O O O O
+海 康 威 视 总 部 在 哪 里 ？	B-seg I-seg I-seg E-seg O O O O O O
+海 康 威 视 的 企 业 口 号 是 什 么 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+国 内 有 哪 些 期 货 交 易 所 ？	O O O O O B-seg I-seg I-seg I-seg E-seg O
+上 海 有 几 个 期 货 交 易 所	B-seg E-seg O O O O O O O O
+中 国 有 几 个 期 货 交 易 所	B-seg E-seg O O O O O O O O
+郑 州 有 几 个 期 货 交 易 所 ？	B-seg E-seg O O O O O O O O O
+大 连 有 几 个 期 货 交 易 所 ？	B-seg E-seg O O O O O O O O O
+上 期 所 都 交 易 什 么 期 货 ？	B-seg I-seg E-seg O O O O O O O O
+黄 金 期 货 可 以 在 哪 里 交 易 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+燃 料 油 期 货 在 哪 交 易	B-seg I-seg I-seg I-seg E-seg O O O O
+橡 胶 期 货 在 哪 个 交 易 所 交 易	B-seg I-seg I-seg E-seg O O O O O O O O
+郑 商 所 可 以 交 易 什 么 期 货 ？	B-seg I-seg E-seg O O O O O O O O O
+大 商 所 都 能 交 易 什 么 期 货	B-seg I-seg E-seg O O O O O O O O
+郑 商 所 交 易 的 期 货 有 几 种	B-seg I-seg E-seg O O O O O O O O
+上 期 所 交 易 的 期 货 有 几 种	B-seg I-seg E-seg O O O O O O O O
+大 商 所 的 期 货 交 易 有 多 少 种	B-seg I-seg E-seg O O O O O O O O O
+上 期 所 在 中 国 哪 个 城 市	B-seg I-seg E-seg O O O O O O O
+大 商 所 在 中 国 哪 个 城 市	B-seg I-seg E-seg O O O O O O O
+郑 商 所 在 中 国 哪 个 城 市	B-seg I-seg E-seg O O O O O O O
+位 于 大 连 的 期 货 交 易 所 叫 什 么	O O B-seg E-seg O B-seg I-seg I-seg I-seg E-seg O O O
+海 康 威 视 的 截 止 到 2 0 1 9 年 3 月 1 2 日 的 市 值 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O O O O O
+截 止 到 2 0 1 9 年 3 月 1 2 日 国 内 最 大 的 大 华 股 份 的 市 盈 率 是 多 少	O O O O O O O O O O O O O O O O O O B-seg I-seg I-seg E-seg O O O O O O O
+大 华 股 份 的 股 票 代 码 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+大 华 股 份 的 市 值 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O
+大 华 股 份 的 净 资 产 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+大 华 股 份 的 净 利 润 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+大 华 股 份 的 市 盈 率 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+大 华 股 份 的 市 盈 率 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+大 华 股 份 的 毛 利 率 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+大 华 股 份 的 净 利 率 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+大 华 股 份 的 R O E 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+长 江 和 记 实 业 有 限 公 司 的 中 文 简 称 是 什 么	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O
+长 江 和 记 实 业 有 限 公 司 的 注 册 地 址 是 哪 里	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O
+长 江 和 记 实 业 有 限 公 司 是 谁 名 下 的 企 业	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O
+信 和 置 业 的 全 称 是 什 么	B-seg I-seg I-seg E-seg O O O O O O
+信 和 置 业 的 外 文 名 称	B-seg I-seg I-seg E-seg O O O O O
+银 河 娱 乐 集 团 有 限 公 司 简 称 什 么	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O
+银 河 娱 乐 集 团 有 限 公 司 外 文 名 称	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O
+银 河 娱 乐 集 团 有 限 公 司 什 么 时 候 成 立 的	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O
+银 河 娱 乐 集 团 有 限 公 司 的 注 册 地 址	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O
+银 河 娱 乐 集 团 有 限 公 司 的 主 席 是 谁	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O
+银 河 娱 乐 集 团 有 限 公 司 的 传 真 是 多 少	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+周 生 生 集 团 国 际 有 限 公 司 简 称 什 么	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O
+周 生 生 集 团 国 际 有 限 公 司 外 文 名 称	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O
+周 生 生 集 团 国 际 有 限 公 司 的 注 册 地 址	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O
+周 生 生 集 团 国 际 有 限 公 司 的 主 席 是 谁	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O
+周 生 生 集 团 国 际 有 限 公 司 的 传 真 是 多 少	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+中 国 银 行 在 哪 里 的 上 市 的 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+中 国 上 市 公 司 的 股 票 有 哪 几 种	O O O O O O O B-seg E-seg O O O O
+中 国 工 商 银 行 哪 一 年 成 立 的	B-seg I-seg I-seg E-seg O O O O O O O O
+中 国 工 商 银 行 在 哪 里 上 市 的	B-seg I-seg I-seg E-seg O O O O O O O O
+香 港 证 券 交 易 总 部 所 在 哪 里	B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+香 港 证 券 交 易 所 总 部 所 在 哪 里	B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+上 海 证 券 交 易 总 部 所 在 哪 ？	B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+上 海 证 券 交 易 所 总 部 所 在 哪 ？	B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+中 国 农 业 银 行 总 部 设 在 哪 里	B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+金 融 业 包 括 哪 些 行 业	B-seg I-seg E-seg O O O O O O
+0 0 国 债 0 8 的 全 称 ？	B-seg I-seg I-seg I-seg I-seg E-seg O O O O
+丝 绸 转 债 的 全 称 ？	B-seg I-seg I-seg E-seg O O O O
+支 付 宝 （ 中 国 ） 网 络 技 术 有 限 公 司 的 法 定 代 表 人 是 谁	B-seg I-seg E-seg O O O O O O O O O O O O O O O O O O O O
+支 付 宝 网 络 技 术 有 限 公 司 （ 中 国 ） 网 络 技 术 有 限 公 司 的 法 定 代 表 人 是 谁	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O O O O
+支 付 宝 （ 中 国 ） 网 络 技 术 有 限 公 司 的 法 定 代 表 人 名 下 有 多 少 家 公 司	B-seg I-seg E-seg O O O O O O O O O O O O O O O O O O O O O O O O O O
+支 付 宝 网 络 技 术 有 限 公 司 （ 中 国 ） 网 络 技 术 有 限 公 司 的 法 定 代 表 人 名 下 有 多 少 家 公 司	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O O O O O O O O O O
+支 付 宝 （ 中 国 ） 网 络 技 术 有 限 公 司 的 注 册 资 本 是 多 少	B-seg I-seg E-seg O O O O O O O O O O O O O O O O O O O O
+支 付 宝 网 络 技 术 有 限 公 司 （ 中 国 ） 网 络 技 术 有 限 公 司 的 注 册 资 本 是 多 少	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O O O O
+支 付 宝 （ 中 国 ） 网 络 技 术 有 限 公 司 的 成 立 日 期	B-seg I-seg E-seg O O O O O O O O O O O O O O O O O
+支 付 宝 网 络 技 术 有 限 公 司 （ 中 国 ） 网 络 技 术 有 限 公 司 的 成 立 日 期	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O
+支 付 宝 （ 中 国 ） 网 络 技 术 有 限 公 司 的 统 一 社 会 融 资 融 券 代 码	B-seg I-seg E-seg O O O O O O O O O O O O O O O O O O O O O O O
+支 付 宝 网 络 技 术 有 限 公 司 （ 中 国 ） 网 络 技 术 有 限 公 司 的 统 一 社 会 融 资 融 券 代 码	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O O O O O O O
+支 付 宝 （ 中 国 ） 网 络 技 术 有 限 公 司 的 工 商 注 册 号	B-seg I-seg E-seg O O O O O O O O O O O O O O O O O O
+支 付 宝 网 络 技 术 有 限 公 司 （ 中 国 ） 网 络 技 术 有 限 公 司 的 工 商 注 册 号	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O O
+支 付 宝 （ 中 国 ） 网 络 技 术 有 限 公 司 的 组 织 机 构 代 码	B-seg I-seg E-seg O O O O O O O O O O O O O O O O O O O
+支 付 宝 网 络 技 术 有 限 公 司 （ 中 国 ） 网 络 技 术 有 限 公 司 的 组 织 机 构 代 码	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O O O
+支 付 宝 （ 中 国 ） 网 络 技 术 有 限 公 司 的 英 文 名 称	B-seg I-seg E-seg O O O O O O O O O O O O O O O O O
+支 付 宝 网 络 技 术 有 限 公 司 （ 中 国 ） 网 络 技 术 有 限 公 司 的 英 文 名 称	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O
+支 付 宝 （ 中 国 ） 网 络 技 术 有 限 公 司 的 注 册 地 址	B-seg I-seg E-seg O O O O O O O O O O O O O O O O O
+支 付 宝 网 络 技 术 有 限 公 司 （ 中 国 ） 网 络 技 术 有 限 公 司 的 注 册 地 址	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O
+支 付 宝 （ 中 国 ） 网 络 技 术 有 限 公 司 的 历 史 法 人	B-seg I-seg E-seg O O O O O O O O O O O O O O O O O
+支 付 宝 网 络 技 术 有 限 公 司 （ 中 国 ） 网 络 技 术 有 限 公 司 的 历 史 法 人	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O
+浙 江 大 华 技 术 股 份 有 限 公 司 成 立 日 期 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O
+浙 江 大 华 技 术 股 份 有 限 公 司 企 业 地 址 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O
+浙 江 大 华 技 术 股 份 有 限 公 司 的 英 文 名 称 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+阿 里 巴 巴 的 法 人 代 表 是 谁	B-seg I-seg I-seg E-seg O O O O O O O
+阿 里 巴 巴 的 法 人 代 表 参 股 了 多 少 家 公 司	B-seg I-seg I-seg E-seg O O O O O O O O O O O O O
+华 泰 证 券 总 部 在 哪 个 城 市	B-seg I-seg I-seg E-seg O O O O O O O
+华 泰 证 券 在 杭 州 的 营 业 部 叫 什 么 名 字 ？	B-seg I-seg I-seg E-seg O B-seg E-seg O O O O O O O O O O
+华 泰 证 券 前 十 大 股 东 是 谁	B-seg I-seg I-seg E-seg O O O O O O O
+华 泰 证 券 在 哪 上 市 的	B-seg I-seg I-seg E-seg O O O O O
+华 泰 证 券 在 A 股 上 市 时 间 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+华 泰 证 券 的 全 资 子 公 司 有 哪 些 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O
+华 泰 证 券 控 股 了 哪 些 公 司 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+华 泰 证 券 参 股 了 哪 些 公 司 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+光 大 证 券 董 事 长 是 谁 ？	B-seg I-seg I-seg E-seg O O O O O O
+光 大 证 券 的 十 大 股 东 都 有 谁 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+光 大 证 券 的 股 票 代 码 是 什 么 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+光 大 证 券 的 主 营 业 务 是 什 么 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+光 大 证 券 的 董 事 会 秘 书 ？	B-seg I-seg I-seg E-seg O O O O O O O
+光 大 证 券 的 法 人 代 表 ？	B-seg I-seg I-seg E-seg O O O O O O
+光 大 证 券 的 中 文 全 称 是 什 么 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+光 大 证 券 的 外 文 全 称 是 什 么 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+光 大 证 券 的 办 公 地 址 在 哪 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+光 大 证 券 的 注 册 资 本 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+光 大 证 券 的 总 经 理 是 谁 ？	B-seg I-seg I-seg E-seg O O O O O O O
+光 大 证 券 的 员 工 人 数 ？	B-seg I-seg I-seg E-seg O O O O O O
+光 大 证 券 属 于 哪 个 行 业 ？	B-seg I-seg I-seg E-seg O O O O O O O
+申 万 行 业 有 多 少 个 行 业 类 别	B-seg I-seg I-seg E-seg O O O O O O O O
+申 万 行 业 分 类 类 别 ？	B-seg I-seg I-seg E-seg O O O O O
+招 商 证 券 开 户 方 式	B-seg I-seg I-seg E-seg O O O O
+证 券 交 易 方 式 ？	B-seg E-seg O O O O O
+招 商 证 券 的 客 服 电 话 ？	B-seg I-seg I-seg E-seg O O O O O O
+什 么 是 证 券 投 资 基 金	O O O B-seg I-seg I-seg I-seg I-seg E-seg
+基 金 涉 及 哪 些 当 事 人 ?	B-seg E-seg O O O O O O O O
+基 金 可 分 为 哪 几 类 ？	B-seg E-seg O O O O O O O
+L O F 的 全 称 是 什 么 ？	B-seg I-seg E-seg O O O O O O O
+基 金 交 易 时 间 ?	B-seg E-seg O O O O O
+基 金 交 易 实 行 三 大 原 则 ?	B-seg E-seg O O O O O O O O O
+专 户 业 务 的 投 资 范 围 是 什 么 ？	B-seg E-seg O O O O O O O O O O O
+养 老 金 的 覆 盖 范 围 有 哪 些 ？	B-seg I-seg E-seg O O O O O O O O O
+天 弘 基 金 的 成 立 时 间 ？	B-seg I-seg I-seg E-seg O O O O O O
+天 弘 基 金 的 股 东 ？	B-seg I-seg I-seg E-seg O O O O
+保 险 可 以 分 成 什 么 类 型 ？	B-seg E-seg O O O O O O O O O
+人 身 保 险 可 划 分 为 哪 几 类 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+一 般 的 企 业 财 产 保 险 可 分 为 哪 几 类 ？	O O O B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O
+可 以 将 融 资 融 券 保 险 分 为 哪 几 类 ？	O O O O O O O B-seg E-seg O O O O O O
+可 以 将 融 资 融 券 信 用 保 险 分 为 哪 几 类 ？	O O O O O O O B-seg I-seg I-seg E-seg O O O O O O
+责 任 保 险 种 类 ？	B-seg I-seg I-seg E-seg O O O
+保 险 中 介 组 成 ？	B-seg I-seg I-seg E-seg O O O
+保 险 法 组 成 ?	B-seg E-seg O O O O
+保 险 中 介 法 组 成 ?	B-seg I-seg I-seg E-seg O O O O
+保 险 资 格 考 试 包 括 哪 几 类 ？	B-seg E-seg O O O O O O O O O O
+保 险 法 资 格 考 试 包 括 哪 几 类 ？	B-seg I-seg E-seg O O O O O O O O O O
+再 保 险 可 以 分 成 什 么 类 别 ？	B-seg I-seg E-seg O O O O O O O O O
+海 通 证 券 曾 用 名 ？	B-seg I-seg I-seg E-seg O O O O
+海 通 证 券 所 属 行 业	B-seg I-seg I-seg E-seg O O O O
+海 通 证 券 的 董 事 长 是 谁 ？	B-seg I-seg I-seg E-seg O O O O O O O
+海 通 证 券 的 注 册 资 本 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+海 通 证 券 的 总 经 理 是 谁 ？	B-seg I-seg I-seg E-seg O O O O O O O
+海 通 证 券 的 董 秘 是 谁 ？	B-seg I-seg I-seg E-seg O O O O O O
+黄 金 期 货 的 交 易 代 码	B-seg I-seg I-seg E-seg O O O O O
+黄 金 期 货 的 交 割 方 式	B-seg I-seg I-seg E-seg O O O O O
+黄 金 期 货 在 哪 里 交 易	B-seg I-seg I-seg E-seg O O O O O
+黄 金 期 货 的 交 易 单 位	B-seg I-seg I-seg E-seg O O O O O
+黄 金 期 货 的 报 价 单 位	B-seg I-seg I-seg E-seg O O O O O
+美 国 有 几 个 股 票 交 易 所	B-seg E-seg O O O O O O O O
+美 国 有 哪 几 个 股 票 交 易 所	B-seg E-seg O O O O O O O O O
+美 国 证 券 交 易 所 纽 约 证 券 交 易 所 的 简 称 是 什 么	O O O O O O O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+美 国 纽 约 证 券 交 易 所 纽 约 纽 约 证 券 交 易 所 的 简 称 是 什 么	O O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+美 国 证 券 交 易 所 全 美 证 券 交 易 所 的 简 称 是 什 么	O O O O O O O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+美 国 全 美 证 券 交 易 所 全 美 全 美 证 券 交 易 所 的 简 称 是 什 么	O O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+美 国 证 券 交 易 所 纳 斯 达 克 证 券 交 易 所 的 简 称 是 什 么	O O O O O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+美 国 纳 斯 达 克 证 券 交 易 所 纳 斯 达 克 纳 斯 达 克 证 券 交 易 所 的 简 称 是 什 么	O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+阿 里 巴 巴 股 票 代 码	B-seg I-seg I-seg E-seg O O O O
+支 付 宝 的 母 公 司 是 谁 ？	B-seg I-seg E-seg O O O O O O O
+金 融 期 货 有 哪 些 ？	B-seg I-seg I-seg E-seg O O O O
+环 球 主 要 的 期 货 交 易 所 ？	B-seg E-seg O O O O O O O O O
+环 球 交 易 所 主 要 的 期 货 交 易 所 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+亚 太 指 数 有 哪 些 ？	B-seg I-seg I-seg E-seg O O O O
+美 洲 指 数 有 哪 些 ？	B-seg I-seg I-seg E-seg O O O O
+欧 洲 指 数 有 哪 些 ？	O O B-seg E-seg O O O O
+欧 洲 亚 太 指 数 有 哪 些 ？	O O B-seg I-seg I-seg E-seg O O O O
+上 证 指 数 的 代 码 是 多 少	B-seg I-seg I-seg E-seg O O O O O O
+小 米 科 技 有 限 责 任 公 司 股 票 代 码 是 多 少 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O
+小 米 公 司 什 么 时 候 上 市 的 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+小 米 公 司 在 哪 里 上 市 的 ？	B-seg I-seg I-seg E-seg O O O O O O O
+小 米 科 技 有 限 责 任 公 司 统 一 社 会 融 资 融 券 代 码 是 多 少 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O
+小 米 科 技 有 限 责 任 公 司 纳 税 人 识 别 号 是 多 少 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O
+小 米 科 技 有 限 责 任 公 司 营 业 期 限 是 多 少 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O
+小 米 科 技 有 限 责 任 公 司 注 册 地 址 是 多 少 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O
+小 米 科 技 有 限 责 任 公 司 组 织 机 构 代 码 是 多 少 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O
+小 米 科 技 有 限 责 任 公 司 公 司 的 公 司 类 型 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O
+小 米 科 技 有 限 责 任 公 司 所 属 行 业 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O
+小 米 科 技 有 限 责 任 公 司 登 记 机 关 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O
+小 米 科 技 有 限 责 任 公 司 英 文 名 称 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O
+小 米 科 技 有 限 责 任 公 司 A 轮 融 资 是 什 么 时 候	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+小 米 科 技 有 限 责 任 公 司 I P O 上 市 前 经 历 了 几 轮 融 资	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O
+小 米 科 技 有 限 责 任 公 司 有 哪 些 产 品	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O
+奥 美 医 疗 的 股 票 代 码 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+西 安 银 行 的 股 票 代 码 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+华 阳 国 际 的 股 票 代 码 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+威 派 格 的 股 票 代 码 是 多 少 ？	B-seg I-seg E-seg O O O O O O O O O
+七 彩 化 学 的 股 票 代 码 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+立 华 股 份 的 股 票 代 码 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+福 莱 特 的 全 称 是 什 么 ？	B-seg I-seg E-seg O O O O O O O
+恒 铭 达 的 全 称 是 什 么 ？	B-seg I-seg E-seg O O O O O O O
+威 尔 药 业 的 全 称 是 什 么 ？	B-seg I-seg I-seg E-seg O O O O O O O
+华 致 酒 行 的 全 称 是 什 么 ？	B-seg I-seg I-seg E-seg O O O O O O O
+动 力 煤 的 交 易 单 位 是 多 少 ？	B-seg I-seg E-seg O O O O O O O O O
+动 力 煤 的 报 价 单 位 ？	B-seg I-seg E-seg O O O O O O
+动 力 煤 的 最 小 变 动 价 位 ？	B-seg I-seg E-seg O O O O O O O O
+证 监 会 全 称 ？	B-seg I-seg E-seg O O O
+银 监 会 全 称 ？	B-seg I-seg E-seg O O O
+保 监 会 全 称 ？	B-seg I-seg E-seg O O O
+证 监 会 主 席 是 谁	B-seg I-seg E-seg O O O O
+证 监 会 领 导 都 有 谁 ？	B-seg I-seg E-seg O O O O O O
+银 监 会 主 席 是 谁	B-seg I-seg E-seg O O O O
+银 监 会 领 导 都 有 谁 ？	B-seg I-seg E-seg O O O O O O
+万 达 董 事 长 是 谁	B-seg E-seg O O O O O
+万 达 集 团 创 建 于 哪 一 年 ？	B-seg I-seg I-seg E-seg O O O O O O O
+百 度 上 市 时 间	B-seg E-seg O O O O
+百 度 在 哪 里 上 市 的 ？	B-seg E-seg O O O O O O O
+百 度 董 事 长 是 谁 ？	B-seg E-seg O O O O O O
+欢 聚 时 代 旗 下 有 哪 些 产 品 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+余 额 宝 的 基 金 管 理 人 是 谁 ？	B-seg I-seg E-seg O O O O O O O O O
+天 弘 基 金 有 哪 些 基 金 产 品 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+余 额 宝 的 起 购 金 额 最 小 是 多 少 ？	B-seg I-seg E-seg O O O O O O O O O O O
+余 额 宝 现 在 一 共 接 入 了 几 支 基 金	B-seg I-seg E-seg O O O O O O O O O O O
+西 藏 自 治 区 有 多 少 家 上 市 公 司	B-seg I-seg I-seg I-seg E-seg O O O O O O O O
+上 海 的 上 市 公 司 有 多 少	B-seg E-seg O O O O O O O O
+江 苏 省 的 上 市 公 司 一 共 有 多 少 家 ？	B-seg I-seg E-seg O O O O O O O O O O O O
+属 于 上 海 自 贸 概 念 股 的 上 市 公 司 有 多 少 ？	O O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+有 哪 些 上 市 公 司 是 属 于 上 海 自 贸 概 念 股 的 ？	O O O O O O O O O O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O
+属 于 氢 燃 料 概 念 股 的 上 市 公 司 有 哪 些 ？	O O B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+华 昌 化 工 是 属 于 什 么 概 念 股 的 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O
+福 建 金 森 是 属 于 什 么 行 业 的 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+信 托 的 构 成 要 素 包 括 什 么 ？	B-seg E-seg O O O O O O O O O O
+京 东 方 科 技 集 团 股 份 有 限 公 司 的 曾 用 名 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O
+京 东 方 科 技 集 团 股 份 有 限 公 司 的 主 营 业 务 包 括 什 么 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O
+京 东 方 科 技 集 团 股 份 有 限 公 司 的 董 秘 是 谁 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O
+京 东 方 科 技 集 团 股 份 有 限 公 司 的 股 票 简 称 是 什 么	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O
+京 东 方 A 的 上 市 日 期 ？	B-seg I-seg I-seg E-seg O O O O O O
+京 东 方 A 的 主 承 销 商 ？	B-seg I-seg I-seg E-seg O O O O O O
+京 东 方 A 的 最 大 股 东 是 谁 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+京 东 方 A 的 十 大 股 东 ？	B-seg I-seg I-seg E-seg O O O O O O
+恒 生 电 子 董 事 长 的 薪 酬 是 多 少	B-seg I-seg I-seg E-seg O O O O O O O O O
+恒 生 电 子 董 事 长 的 性 别 是 什 么	B-seg I-seg I-seg E-seg O O O O O O O O O
+恒 生 电 子 的 现 任 董 事 长 是 什 么 时 候 开 始 履 职 的 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O
+恒 生 电 子 的 董 事 长 的 持 股 数 量 是 多 少	B-seg I-seg I-seg E-seg O O O O O O O O O O O O
+恒 生 电 子 的 董 事 长 的 持 股 总 数 占 比 是 多 少	B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O
+恒 生 电 子 股 份 有 限 公 司 的 董 事 长 多 大 年 纪 了	B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O
+恒 生 电 子 股 份 有 限 公 司 的 董 事 长 是 什 么 学 历	B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O
+恒 生 电 子 股 份 有 限 公 司 的 董 事 长 毕 业 于 哪 所 大 学	B-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O O O
+6 0 0 5 7 0 上 市 时 间 是 什 么 时 候 ？	B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O
+6 0 0 5 7 0 的 发 行 总 股 本 是 多 少 ？	B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O
+6 0 0 5 7 0 的 流 通 A 股 是 多 少 ？	B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+大 华 股 份 的 董 事 长 是 哪 一 年 生 的	B-seg I-seg I-seg E-seg O O O O O O O O O O
+大 华 股 份 的 董 事 长 毕 业 于 哪 所 高 校	B-seg I-seg I-seg E-seg O O O O O O O O O O O
+蚂 蚁 金 服 现 任 总 裁 是 什 么 时 候 上 任 的 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O O O O
+蚂 蚁 金 服 最 近 一 融 资 额 是 多 少 ？	B-seg I-seg I-seg E-seg B-seg I-seg E-seg O O O O O O O
+蚂 蚁 金 服 最 近 一 次 融 资 额 是 多 少 ？	B-seg I-seg I-seg E-seg B-seg I-seg I-seg E-seg O O O O O O O
+位 于 上 海 的 期 货 交 易 所 叫 什 么 ？	O O B-seg E-seg O B-seg I-seg I-seg I-seg E-seg O O O O
+位 于 郑 州 的 期 货 交 易 所 叫 什 么 ？	O O B-seg E-seg O B-seg I-seg I-seg I-seg E-seg O O O O
+位 于 上 海 的 期 货 交 易 所 叫 什 么	O O B-seg E-seg O O O O O O O O O
+位 于 河 南 省 会 的 期 货 交 易 所 叫 什 么	O O B-seg E-seg O O O O O O O O O O O
+位 于 河 南 省 会 的 期 货 交 易 所 全 称 叫 什 么	O O B-seg E-seg O O O O O O O O O O O O O
+郑 商 所 上 市 的 农 产 品 期 货 有 什 么	B-seg I-seg E-seg O O O B-seg I-seg I-seg I-seg E-seg O O O
+郑 商 所 上 市 的 非 农 产 品 期 货 有 什 么	B-seg I-seg E-seg O O O B-seg I-seg I-seg I-seg I-seg E-seg O O O
+上 海 期 货 交 易 所 上 市 的 期 货 品 种 中 金 属 期 货 有 什 么 ？	B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O B-seg I-seg I-seg E-seg O O O O
+上 海 金 属 期 货 交 易 所 上 市 的 金 属 期 货 品 种 中 金 属 金 属 期 货 有 什 么 ？	O O B-seg I-seg I-seg E-seg O O O O O O B-seg I-seg I-seg E-seg O O O O O B-seg I-seg I-seg E-seg O O O O
+上 海 期 货 交 易 所 上 市 的 期 货 品 种 中 能 源 化 工 期 货 有 什 么 ？	B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O B-seg I-seg I-seg I-seg I-seg E-seg O O O O
+上 海 能 源 化 工 期 货 交 易 所 上 市 的 能 源 化 工 期 货 品 种 中 能 源 化 工 能 源 化 工 期 货 有 什 么 ？	O O B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O B-seg I-seg I-seg I-seg I-seg E-seg O O O O
+上 海 期 货 交 易 所 上 市 的 期 货 品 种 中 衍 生 品 期 货 有 什 么 ？	B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O B-seg I-seg I-seg I-seg E-seg O O O O
+上 海 衍 生 品 期 货 交 易 所 上 市 的 衍 生 品 期 货 品 种 中 衍 生 品 衍 生 品 期 货 有 什 么 ？	O O B-seg I-seg I-seg I-seg E-seg O O O O O O B-seg I-seg I-seg I-seg E-seg O O O O O O B-seg I-seg I-seg I-seg E-seg O O O O
+和 记 黄 埔 的 董 事 长 有 什 么 企 业	B-seg I-seg I-seg E-seg O O O O O O O O O
+中 国 银 行 什 么 时 候 在 香 港 证 券 交 易 所 上 市	B-seg I-seg I-seg E-seg O O O O O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O
+恒 生 电 子 股 份 有 限 公 司 董 事 长 名 下 有 多 少 家 公 司	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O
+恒 生 电 子 股 份 有 限 公 司 总 裁 名 下 有 多 少 家 公 司	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O
+浙 江 大 华 技 术 股 份 有 限 公 司 董 事 长 任 职 多 少 家 企 业 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O
+华 泰 证 券 什 时 候 在 H 股 上 市 的 ？	B-seg I-seg I-seg E-seg O O O O B-seg E-seg O O O O
+华 泰 证 券 的 董 事 长 年 龄 多 大 了 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O
+华 泰 证 券 的 董 事 长 是 什 么 学 历 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O
+光 大 证 券 董 事 长 多 大 年 纪 了 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+光 大 证 券 董 事 长 是 什 么 学 历 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+光 大 证 券 董 事 长 年 薪 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+海 通 证 券 的 董 事 长 是 什 么 学 历 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O
+海 通 证 券 的 董 事 长 年 薪 是 多 少 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O
+海 通 证 券 的 董 事 长 多 大 年 龄 ？	B-seg I-seg I-seg E-seg O O O O O O O O O
+与 海 通 证 券 董 事 长 关 联 的 公 司 有 几 家 ？	O B-seg I-seg I-seg E-seg O O O O O O O O O O O O
+阿 里 巴 巴 逍 遥 子 的 职 位 是 什 么	B-seg I-seg I-seg E-seg B-seg I-seg E-seg O O O O O O
+小 米 科 技 有 限 责 任 公 司 法 定 代 表 人 有 多 少 家 关 联 公 司 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O
+小 米 科 技 董 事 长 名 下 有 哪 些 上 市 公 司	B-seg I-seg I-seg E-seg O O O O O O O O O O O O
+证 监 会 主 席 哪 一 年 出 生	B-seg I-seg E-seg O O O O O O O
+现 任 证 监 会 主 席 是 什 么 民 族 的 ？	O O B-seg I-seg E-seg O O O O O O O O O
+现 任 证 监 会 主 席 是 什 么 学 历 ？	O O B-seg I-seg E-seg O O O O O O O O
+银 监 会 主 席 哪 一 年 出 生	B-seg I-seg E-seg O O O O O O O
+现 任 银 监 会 主 席 是 什 么 民 族 的 ？	O O B-seg I-seg E-seg O O O O O O O O O
+现 任 银 监 会 主 席 是 什 么 学 历 ？	O O B-seg I-seg E-seg O O O O O O O O
+万 达 董 事 长 哪 一 年 生 的	B-seg E-seg O O O O O O O O
+万 达 董 事 长 的 儿 子 是 谁 ？	B-seg E-seg O O O O O O O O O
+阿 里 巴 巴 董 事 局 主 席 的 故 乡 在 哪 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O O
+顺 丰 董 事 长 名 下 有 多 少 家 企 业 ？	B-seg E-seg O O O O O O O O O O O O
+顺 丰 控 股 董 事 长 名 下 有 多 少 家 企 业 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O O O
+在 国 内 和 香 港 都 已 上 市 的 保 险 公 司 有 哪 几 家 ？	O O O O B-seg E-seg O O O O O O O O O O O O O O
+京 东 方 科 技 的 董 事 长 有 多 少 家 关 联 企 业 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O
+京 东 方 科 技 集 团 股 份 有 限 公 司 的 董 事 长 有 多 少 家 关 联 企 业 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O
+京 东 方 科 技 集 团 股 份 有 限 公 司 的 董 秘 有 多 少 关 联 企 业	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O
+北 京 亦 庄 投 资 控 股 有 限 公 司 持 股 京 东 方 科 技 集 团 股 份 有 限 公 司 的 比 例 是 多 少 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O
+北 京 亦 庄 投 资 控 股 京 东 方 科 技 集 团 股 份 有 限 公 司 持 股 京 东 方 科 技 集 团 股 份 京 东 方 科 技 集 团 股 份 有 限 公 司 的 比 例 是 多 少 ？	O O O O O O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O
+重 庆 渝 资 光 电 产 业 投 资 有 限 公 司 占 京 东 方 科 技 集 团 有 限 公 司 多 少 股 份 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O B-seg I-seg I-seg E-seg O O O O O
+重 庆 渝 资 光 电 产 业 投 资 京 东 方 科 技 集 团 股 份 有 限 公 司 占 京 东 方 科 技 集 团 京 东 方 科 技 集 团 股 份 有 限 公 司 多 少 股 份 ？	O O O O O O O O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O
+京 东 方 A 的 董 事 长 是 什 么 学 历 ？	B-seg I-seg I-seg E-seg O O O O O O O O O O
+魔 性 诱 惑 的 主 演 是 哪 国 人 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+下 北 阳 光 灿 烂 的 日 子 主 演 是 什 么 星 座 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O
+用 风 筝 吸 引 雷 电 的 科 学 家 是 哪 国 人 ？	B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+用 风 筝 吸 引 雷 电 对 电 进 行 了 探 索 的 科 学 家 是 哪 国 人 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+《 穷 理 查 年 鉴 》 的 作 者 逝 世 于 是 哪 天 ？	O B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O
+巴 勃 罗 · 鲁 伊 斯 · 毕 加 索 外 文 名 叫 什 么 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O
+《 三 个 音 乐 家 》 的 作 者 是 什 么 派 别 的 画 家 ？	O B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O
+《 哭 泣 的 女 人 》 的 作 者 出 生 于 哪 天 ？	O B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O
+北 京 大 学 的 现 任 校 长 是 谁 ？	B-seg I-seg I-seg E-seg O O O O O O O O
+思 想 自 由 ， 兼 容 并 包 ， 是 那 个 学 校 的 学 术 传 统 ？	B-seg I-seg I-seg E-seg O B-seg I-seg I-seg E-seg O O O O O O O O O O O O
+学 校 代 码 是 1 0 0 0 1 的 大 学 ， 目 前 有 多 少 位 长 江 学 者 ？	O O O O O B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O O O O O
+嬴 政 出 生 于 中 国 哪 个 省 份 ？	B-seg E-seg O O O O O O O O O O
+嬴 政 信 仰 哪 家 学 派 ？	B-seg E-seg O O O O O O O
+让 车 同 轨 ， 书 同 文 的 是 中 国 哪 位 皇 帝 ？	O B-seg I-seg E-seg O B-seg I-seg E-seg O O O O O O O O O
+李 星 辰 出 生 于 哪 一 年 ？	B-seg I-seg E-seg O O O O O O O
+火 星 的 质 量 ？	B-seg E-seg O O O O
+被 称 为 " 小 飞 侠 " 的 是 哪 位 著 名 篮 球 运 动 员 ？	O O O O B-seg I-seg E-seg O O O O O O O O O O O O O
+" 小 飞 侠 " 身 穿 多 少 号 球 衣 ？	O B-seg I-seg E-seg O O O O O O O O O
+" 小 飞 侠 " 的 父 亲 是 哪 位 篮 球 运 动 员 ？	O B-seg I-seg E-seg O O O O O O O O O O O O O
+" 小 飞 侠 " 出 生 州 的 州 长 是 谁 ？	O B-seg I-seg E-seg O O O O O O O O O O
+" 黑 曼 巴 " 的 妻 子 是 谁 ？	O B-seg I-seg E-seg O O O O O O O
+" 独 立 宣 言 " 的 签 署 日 期 ？	O B-seg I-seg I-seg E-seg O O O O O O O
+" 独 立 宣 言 " 的 批 准 地 点 ？	O B-seg I-seg I-seg E-seg O O O O O O O
+沁 园 春 雪 的 作 者 的 毕 业 院 校 是 ？	B-seg I-seg E-seg O O O O O O O O O O O
+沁 园 春 · 雪 雪 的 作 者 的 毕 业 院 校 是 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O
+" 雄 关 漫 道 真 如 铁 ， 而 今 迈 步 从 头 越 " 的 作 者 的 出 生 地 ？	O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+" 人 间 正 道 是 沧 桑 " 的 作 者 是 谁 ？	O B-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O
+是 谁 提 出 了 " 韬 奋 精 神 " ？	O O O O O O B-seg I-seg I-seg E-seg O O
+世 界 上 第 一 台 计 算 机 叫 什 么 名 字 ？	O O O O O O B-seg I-seg E-seg O O O O O O
+计 算 机 的 发 明 者 ， 被 称 为 计 算 机 之 父 的 是 哪 位 科 学 家 ？	B-seg I-seg E-seg O O O O O O O O B-seg I-seg E-seg O O O O O O O O O O
+老 虎 在 动 物 分 类 里 属 于 哪 个 科 ？	O S-seg O O O O O O O O O O O O
+老 虎 的 拉 丁 学 名 叫 什 么 ？	O S-seg O O O O O O O O O
+老 虎 在 生 物 学 分 类 里 属 于 哪 个 属 ？	O S-seg O O O O O O O O O O O O O
+《 功 夫 》 的 男 主 角 的 外 文 名 是 什 么 ？	O B-seg E-seg O O O O O O O O O O O O O
+8 次 获 得 香 港 电 影 年 度 票 房 冠 军 的 香 港 演 员 是 谁 ？	B-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O O
+周 星 驰 的 籍 贯 是 哪 里 ？	B-seg I-seg E-seg O O O O O O O
+周 星 驰 的 别 名 有 哪 些 ？	B-seg I-seg E-seg O O O O O O O
+逃 学 威 龙 2 的 主 演 的 出 生 地 是 哪 里 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O O O O
+逃 学 威 龙 2 的 主 演 的 身 高 多 少 ？	B-seg I-seg I-seg I-seg E-seg O O O O O O O O O
+功 夫 的 主 演 是 谁 ？	B-seg E-seg O O O O O O
+水 浒 传 的 别 名 有 哪 些 ？	B-seg I-seg E-seg O O O O O O O
+北 京 大 学 校 歌 是 由 谁 创 作 的 ？	B-seg I-seg I-seg I-seg I-seg E-seg O O O O O O O
+贾 宝 玉 是 哪 本 书 里 的 角 色 ？	B-seg I-seg E-seg O O O O O O O O O
+嫦 娥 的 丈 夫 的 主 要 成 就 是 什 么 ？	B-seg E-seg O O O O O O O O O O O O
+妲 己 是 谁 的 女 儿 ？	B-seg E-seg O O O O O O
+畿 服 制 始 于 哪 个 朝 代 ？	B-seg I-seg E-seg O O O O O O O
+兵 圣 的 主 要 成 就 有 哪 些 ？	B-seg E-seg O O O O O O O O O
+著 名 的 长 平 之 战 发 生 于 我 国 哪 个 历 史 时 期 ？	O O O B-seg I-seg I-seg E-seg O O O O O O O O O O O O
