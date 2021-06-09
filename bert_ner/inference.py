@@ -32,8 +32,12 @@ def start():
             all_input_mask = torch.tensor([input_mask], dtype=torch.long)
             all_segment_ids = torch.tensor([segment_ids], dtype=torch.long)
             all_output_mask = torch.tensor([output_mask], dtype=torch.long)
-            bert_encode = model(all_input_ids, all_input_mask, all_segment_ids).cpu()
-            predicts = model.predict(bert_encode, all_output_mask).cpu()
+            if torch.cuda.is_available():
+                bert_encode = model(all_input_ids, all_input_mask, all_segment_ids)
+                predicts = model.predict(bert_encode, all_output_mask)
+            else:
+                bert_encode = model(all_input_ids, all_input_mask, all_segment_ids).cpu()
+                predicts = model.predict(bert_encode, all_output_mask).cpu()
 
             predicts = predicts.view(1, -1).squeeze()
             predicts = predicts[predicts != -1]

@@ -50,7 +50,8 @@ if __name__=="__main__":
                     batch_data = tuple(t.to(config.device) for t in batch_data)
                     batch_seqs, batch_seq_masks, batch_seq_segments, batch_labels = batch_data        
                     logits = model(
-                        batch_seqs, batch_seq_masks, batch_seq_segments, labels=None)
+                        batch_seqs, batch_seq_masks, batch_seq_segments
+                    )
                     logits = logits.softmax(dim=1).argmax(dim = 1)
                     pred_labels = logits.detach().cpu().numpy()
 

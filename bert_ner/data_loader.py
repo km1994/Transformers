@@ -36,9 +36,8 @@ def create_inference_iter():
     processor, tokenizer = init_params()
     examples = processor.get_valid_examples()[:100]
     batch_size = args.inference_batch_size
-    label_list = processor.get_labels()
     # 特征
-    features = convert_examples_to_features(examples, label_list, args.max_seq_length, tokenizer)
+    features = convert_examples_to_features(examples, args.max_seq_length, tokenizer)
 
     logger.info("  Num examples = %d", len(examples))
     logger.info("  Batch size = %d", batch_size)
@@ -81,11 +80,9 @@ def create_batch_iter(mode):
     else:
         raise ValueError("Invalid mode %s" % mode)
 
-    label_list = processor.get_labels()
-
     # examples to 特征
     features = convert_examples_to_features(
-        examples, label_list, args.max_seq_length, tokenizer
+        examples, args.max_seq_length, tokenizer
     )
 
     logger.info("  Num examples = %d", len(examples))

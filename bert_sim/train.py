@@ -1,17 +1,14 @@
 import os
 import sys
 import numpy as np
-
 from pytorch_pretrained_bert import BertTokenizer, BertModel, BertForMaskedLM, BertForSequenceClassification
 from pytorch_pretrained_bert.optimization import BertAdam, WarmupLinearSchedule
-
 from tqdm import tqdm
 from tqdm import tqdm_notebook, trange
 from sklearn.metrics import precision_score
 from sklearn.metrics import recall_score
 from sklearn.metrics import f1_score
 from sklearn.model_selection import train_test_split
-
 import torch
 from torch.optim import optimizer
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler
@@ -22,7 +19,7 @@ from tools import *
 from Config import Config
 from EarlyStopping import EarlyStopping
 from DataPrecessForSentencePair import DataPrecessForSentencePair
-from LabelSmoothing import LabelSmoothing
+from model import Bert_Classifier
 
 if __name__=="__main__":
     config = Config()
@@ -32,7 +29,7 @@ if __name__=="__main__":
     label2id_dic,id2label_dic = build_label2id(train_data,config.data_path)
     print(f"label2id_dic:{label2id_dic}")
     print(f"id2label_dic:{id2label_dic}")
-    exit(0)
+
     train_data = train_data[config.col_list[0:-2]+config.col_list[-1:]]
     # 训练数据集拆分为训练集和验证集
     train, valid = train_test_split(train_data, train_size=config.split_ratio, random_state=config.seed)
@@ -47,7 +44,7 @@ if __name__=="__main__":
     # 类初始化
     processor = DataPrecessForSentencePair(bert_tokenizer= bert_tokenizer)
     # 加载预训练的bert模型
-    model = BertForSequenceClassification.from_pretrained(config.bert_model_path, num_labels=config.num_labels)
+    model = Bert_Classifier()
     # 数据加载器构建
     train_dataloder = build_data(processor,train,config.batch_size)
     valid_dataloder = build_data(processor,valid,config.batch_size)
@@ -67,7 +64,6 @@ if __name__=="__main__":
         warmup= config.warmup , 
         t_total= steps
     )
-    loss_function = LabelSmoothing(config.num_labels, config.smoothing)
 
     # 模型训练
     model = model.to(config.device)
@@ -101,10 +97,11 @@ if __name__=="__main__":
                 ).long())
 
             logits = model(
-                batch_seqs, batch_seq_masks, batch_seq_segments, labels=None)
+                batch_seqs, batch_seq_masks, batch_seq_segments
+            )
             logits = torch.nn.functional.log_softmax(logits, dim=1)
             #loss_function = CrossEntropyLoss()
-            loss = loss_function(logits, batch_labels)
+            loss = model.loss_fn(logits, batch_labels)
             loss.backward()
             train_losses.append(loss.item())
             print("\rloss : %f" % loss, end='')
@@ -137,13 +134,13 @@ if __name__=="__main__":
                     ).long())
 
                 logits = model(
-                    batch_seqs, batch_seq_masks, batch_seq_segments, labels=None)
-                logits = torch.nn.functional.log_softmax(logits, dim=1)
-                loss = loss_function(logits, batch_labels)
+                    batch_seqs, batch_seq_masks, batch_seq_segments
+                )
+                loss = model.loss_fn(logits, batch_labels)
                 valid_losses.append(loss.item())
                 
-                logits = logits.softmax(dim=1).argmax(dim = 1)
-                pred_labels.append(logits.detach().cpu().numpy())
+                predicts = model.predict(logits)
+                pred_labels.append(predicts)
                 true_labels.append(batch_labels.detach().cpu().numpy())
         
         true_labels = np.concatenate(true_labels)
@@ -153,7 +150,6 @@ if __name__=="__main__":
         f1 = f1_score(true_labels, pred_labels, average='micro')
         
         if best_f1<f1:
-            # torch.save(model.state_dict(), 'checkpoint_f1.pt')
             torch.save(model, open(config.f1_moadel_path, "wb"))
 
         train_loss = np.average(train_losses)

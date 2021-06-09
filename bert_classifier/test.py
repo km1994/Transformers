@@ -3,14 +3,10 @@ import sys
 import numpy as np
 import random
 from sklearn.metrics import classification_report
-
 from pytorch_pretrained_bert import BertTokenizer, BertForSequenceClassification
-
 from tqdm import tqdm
 from tqdm import tqdm_notebook, trange
-
 import torch
-
 from tools import *
 from Config import Config
 from DataPrecessForSingleSentence import DataPrecessForSingleSentence
@@ -44,9 +40,10 @@ if __name__=="__main__":
             batch_data = tuple(t.to(config.device) for t in batch_data)
             batch_seqs, batch_seq_masks, batch_seq_segments, batch_labels = batch_data        
             logits = model(
-                batch_seqs, batch_seq_masks, batch_seq_segments, labels=None)
-            logits = logits.softmax(dim=1).argmax(dim = 1)
-            pred_labels.append(logits.detach().cpu().numpy())
+                batch_seqs, batch_seq_masks, batch_seq_segments
+            )
+            predicts = model.predict(logits)
+            pred_labels.append(predicts)
             true_labels.append(batch_labels.detach().cpu().numpy())
 
     # 查看各个类别的准确率和召回率

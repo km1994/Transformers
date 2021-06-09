@@ -269,31 +269,33 @@ class MyPro(DataProcessor):
         labels_set = set()
         with open(file_name,encoding="utf-8",mode="r") as fr:
             lines = fr.readlines()
-            with open(file_name,encoding="utf-8",mode="r") as fr:
-                lines = fr.readlines()
-                sent = []
-                tags = []
-                for line in lines:
-                    if line != "\n":
-                        word,tag = line.strip().split(args.sep)
-                        sent.append(word)
-                        tags.append(tag)
-                    else:
-                        guid = "%s - %d" % (stage, i)
-                        example = InputExample(
-                            guid=guid, 
-                            text_a=sent, 
-                            label=tags
-                        )
-                        examples.append(example)
-                        labels_set = labels_set.union(tags)
-                        sent = []
-                        tags = []
+            sent = []
+            tags = []
+            for line in lines:
+                if line != "\n":
+                    word,tag = line.strip().split(args.sep)
+                    sent.append(word)
+                    tags.append(tag)
+                else:
+                    guid = "%s - %d" % (stage, i)
+                    example = InputExample(
+                        guid=guid, 
+                        text_a=sent, 
+                        label=tags
+                    )
+                    examples.append(example)
+                    labels_set = labels_set.union(tags)
+                    sent = []
+                    tags = []
+                    i = i+1
+                    # if (i+1)%1000==0:
+                    #     break
         if stage=="train":
             if stage=="train":
                 args.labels = list(labels_set)
             else:
                 assert labels_set.issubset(args.labels), f"valid labels {labels_set} is not train labels {args.labels} subset!"
+        print(f"len(examples):{len(examples)}")
         return examples
 
 
@@ -315,20 +317,16 @@ def convert_text_to_ids(text, tokenizer):
     return ids
 
 # 功能：examples to 特征
-def convert_examples_to_features(examples, label_list, max_seq_length, tokenizer):
+def convert_examples_to_features(examples, max_seq_length, tokenizer):
     '''
         功能：examples to 特征
         input:
             examples        examples        实例
-            label_list      List            标签 List
             max_seq_length  int             max_len
             tokenizer       BertTokenizer   
         return:
             features        List            模型 输入 features
     '''
-    # 标签转换为数字
-    label_map = {label: i for i, label in enumerate(label_list)}
-
     # load sub_vocab
     sub_vocab = {}
     with open(args.VOCAB_FILE, 'r',encoding="utf-8") as fr:
@@ -370,9 +368,16 @@ def convert_examples_to_features(examples, label_list, max_seq_length, tokenizer
 
         # ---------------处理 target----------------
         ## Notes: label_id 中不包括[CLS]和[SEP]
-        label_id = [label_map[l] for l in labels]
+        label_id = [args.tag_map[l] for l in labels]
+
+        # print(f"label_map：{label_map}")
+        # print(f"labels:{labels}")
+        # print(f"label_id:{label_id}")
+
         label_padding = [-1] * (max_seq_length - len(label_id))
         label_id += label_padding
+
+        
 
         ## output_mask 用来过滤 bert 输出中 sub_word 的输出,只保留单词的第一个输出(As recommended by jocob in his paper)
         ## 此外，也是为了适应crf

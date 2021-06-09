@@ -9,6 +9,9 @@ import warnings
 from util.score import score_predict
 from util.metrics import gen_metrics,mean
 from Config import Config
+from util.metrics import get_chunk
+from util.score import get_tags
+from sklearn.metrics import f1_score,recall_score,precision_score
 args = Config()
 from util.Logginger import init_logger
 logger = init_logger("bert_ner", logging_path=args.log_path)
@@ -131,6 +134,7 @@ def fit(model, training_iter, eval_iter, num_epoch, pbar, num_train_steps, verbo
         eval_acc = 0
         eval_loss, eval_acc, eval_precision, eval_recall, eval_f1 = 0, 0, 0, 0, 0
         with torch.no_grad():
+            eval_precisions,eval_recalls,eval_f1s = [],[],[]
             for step, batch in enumerate(eval_iter):
                 batch = tuple(t.to(device) for t in batch)
                 input_ids, input_mask, segment_ids, label_ids, output_mask = batch
@@ -146,21 +150,13 @@ def fit(model, training_iter, eval_iter, num_epoch, pbar, num_train_steps, verbo
                 predicts = predicts.view(1, -1).squeeze()
                 label_ids = label_ids[label_ids != -1]
                 predicts = predicts[predicts != -1]
+                label_ids = label_ids.cpu().numpy().tolist()
+                predicts = predicts.cpu().numpy().tolist()
 
-                y_predicts.append(predicts)
-                y_labels.append(label_ids)
+                precision = precision_score(predicts,label_ids, average='weighted')
+                recall = recall_score(predicts,label_ids, average='weighted')
+                f1 = f1_score(predicts,label_ids, average='weighted')
 
-            eval_predicted = torch.cat(y_predicts, dim=0).cpu()
-            eval_labeled = torch.cat(y_labels, dim=0).cpu()
-            eval_acc = cul_acc(eval_predicted,eval_labeled)
-
-            eval_recalls = []
-            eval_precisions = []
-            eval_f1s = []
-            for predict,label_id in zip(y_predicts,y_labels):
-                f1, precision, recall  = gen_metrics(
-                    label_id, predict, args.tag_map
-                )
                 eval_recalls.append(recall)
                 eval_precisions.append(precision)
                 eval_f1s.append(f1)
